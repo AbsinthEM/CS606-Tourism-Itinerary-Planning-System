@@ -176,3 +176,5 @@ cython_debug/
 # Do not upload .dbs
 migrations/
 *.db
+
+.DS_Store
