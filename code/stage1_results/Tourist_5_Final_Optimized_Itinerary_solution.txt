@@ -1,0 +1,49 @@
+Objective (negative): -0.5448
+Objective (positive): 0.5448
+Tourist ID: 5
+Budget: SGD $460
+Money spent: SGD $0
+Preferences: ['Nature', 'Sporty']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 360.00
+Distance (raw): 20.06 km
+Number of attractions: 3
+
+Normalized Fun: 0.4935
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5448
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Henderson Waves Bridge
+    Time: 11.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.91 km (~0.10 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - HortPark
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.12 km (~0.14 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Labrador Nature Reserve
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.99 km (~0.10 hours)

@@ -1,0 +1,58 @@
+Objective (negative): -0.4576
+Objective (positive): 0.4576
+Tourist ID: 32
+Budget: SGD $543
+Money spent: SGD $93
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 57.95 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9629
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2063
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4576
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - River Safari Singapore
+    Time: 10.4 - 15.4
+    Cost: SGD $46
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 12.25 km (~0.41 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Jurong Bird Park
+    Time: 10.2 - 14.2
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 7.26 km (~0.24 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - HortPark
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.04 km (~0.13 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Singapore Science Centre
+    Time: 10.2 - 15.2
+    Cost: SGD $12
+    Categories: ['Cultural', 'Family']
+    Travel: 5.42 km (~0.18 hours)

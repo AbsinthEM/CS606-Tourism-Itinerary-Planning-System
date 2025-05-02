@@ -1,0 +1,48 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 27
+Preferences: ['Culinary']
+Days: 5
+Budget: SGD $649
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.7487
+Optimized Solution: 0.8962
+Improvement: 19.7%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3183          0.3381          +6.2%
+Distance             0.9276          1.0000          +7.8%
+Attractions          0.4667          0.7333          +57.1%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    7               11             
+Total Distance (km)  113.84          102.00         
+Raw Fun Score        387.00          411.00         
+Money Spent ($)      199             195            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Fuk Tak Chi Museum, Singapore Zoo
+  Day 3: 1 attractions - Raffles Singapore
+  Day 4: 1 attractions - CHIJMES Singapore
+  Day 5: 1 attractions - Marina Bay Sands
+
+Optimized Solution:
+  Day 1: 3 attractions - Chinatown Food Street, Raffles Singapore, The Cenotaph
+  Day 2: 1 attractions - Lau Pa Sat Singapore
+  Day 3: 3 attractions - CHIJMES Singapore, Armenian Church in Singapore, Jamae Mosque (Masjid Chulia) Singapore
+  Day 4: 1 attractions - Marina Bay Sands
+  Day 5: 3 attractions - Marina Bay Sands Sky Park Observation Deck, Fuk Tak Chi Museum, Malay Heritage Centre Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping
+Optimized Solution: Culinary, Cultural, Family, Outdoor, Shopping

@@ -1,0 +1,82 @@
+Objective (negative): -0.6953
+Objective (positive): 0.6953
+Tourist ID: 18
+Budget: SGD $557
+Money spent: SGD $78
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 49
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 600.00
+Distance (raw): 131.07 km
+Number of attractions: 8
+
+Normalized Fun: 0.6169
+Normalized Distance: 0.9000
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.2644
+Weighted distance contribution: 0.1929
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.6953
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.99 km (~0.07 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 14.6 - 16.6
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 15.19 km (~0.51 hours)
+
+  - Chinatown Food Street
+    Time: 16.7 - 17.7
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.90 km (~0.06 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Chek Jawa
+    Time: 10.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 6.48 km (~0.22 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 10.2 - 15.2
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.30 km (~0.24 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 10.6 - 11.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 17.25 km (~0.57 hours)
+
+  - Fuk Tak Chi Museum
+    Time: 11.1 - 11.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.59 km (~0.02 hours)
+
+  - Jurong Bird Park
+    Time: 13.1 - 17.1
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 16.33 km (~0.54 hours)

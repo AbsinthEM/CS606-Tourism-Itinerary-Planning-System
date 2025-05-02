@@ -1,0 +1,73 @@
+Objective (negative): -0.6384
+Objective (positive): 0.6384
+Tourist ID: 80
+Budget: SGD $460
+Money spent: SGD $70
+Preferences: ['Shopping']
+Days: 3
+Unassigned attractions: 50
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 249.00
+Distance (raw): 50.51 km
+Number of attractions: 7
+
+Normalized Fun: 0.3413
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.7778
+
+Weighted fun contribution: 0.1463
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2778
+
+Weighted Objective (positive): 0.6384
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.41 km (~0.15 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 12.1 - 16.1
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 4.24 km (~0.14 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 5.25 km (~0.18 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - National Design Centre Singapore
+    Time: 9.7 - 10.7
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 6.17 km (~0.21 hours)
+
+  - HortPark
+    Time: 10.9 - 12.9
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.38 km (~0.21 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 14.1 - 16.1
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 6.36 km (~0.21 hours)

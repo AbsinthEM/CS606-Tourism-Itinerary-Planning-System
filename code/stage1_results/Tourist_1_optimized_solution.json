@@ -1,0 +1,124 @@
+{
+  "tourist": {
+    "idx": "1",
+    "preferences": [
+      "Shopping",
+      "Cultural"
+    ],
+    "budget": 661,
+    "days": 5,
+    "touring_hours": [
+      8,
+      19
+    ],
+    "hotel_long": 103.836222,
+    "hotel_lat": 1.304917,
+    "money_spent": 183,
+    "locations": {
+      "0": [
+        "Buddha Tooth Relic Temple & Museum in Singapore",
+        "Eurasian Heritage Centre",
+        "MUSEUM OF ICE CREAM SINGAPORE"
+      ],
+      "1": [
+        "Malay Heritage Centre Singapore",
+        "Changi Museum Singapore",
+        "MINT Museum of Toys Singapore & Toy Museum"
+      ],
+      "2": [
+        "Kranji War Memorial Landmark in Singapore",
+        "Fuk Tak Chi Museum",
+        "Fort Canning Park"
+      ],
+      "3": [
+        "Raffles Singapore",
+        "Dalhousie Obelisk",
+        "ArtScience Museum Singapore"
+      ],
+      "4": [
+        "Chinatown Food Street",
+        "Gillman Barracks",
+        "Lasalle College of the Arts"
+      ]
+    },
+    "start_times": {
+      "0": {
+        "Buddha Tooth Relic Temple & Museum in Singapore": 12.002991444024728,
+        "Eurasian Heritage Centre": 9.5,
+        "MUSEUM OF ICE CREAM SINGAPORE": 14.14721884056315
+      },
+      "1": {
+        "Malay Heritage Centre Singapore": 13.03373828659031,
+        "Changi Museum Singapore": 9.5,
+        "MINT Museum of Toys Singapore & Toy Museum": 16.066662649987077
+      },
+      "2": {
+        "Kranji War Memorial Landmark in Singapore": 12.594953001812996,
+        "Fuk Tak Chi Museum": 8.09378575705585,
+        "Fort Canning Park": 8.639116010024908
+      },
+      "3": {
+        "Raffles Singapore": 10.0,
+        "Dalhousie Obelisk": 8.089415464556513,
+        "ArtScience Museum Singapore": 13.04186021077247
+      },
+      "4": {
+        "Chinatown Food Street": 11.0,
+        "Gillman Barracks": 12.146242791573897,
+        "Lasalle College of the Arts": 8.0574250369995
+      }
+    }
+  },
+  "included_categories": [
+    "Shopping",
+    "Culinary",
+    "Family",
+    "Outdoor",
+    "Cultural",
+    "Nature"
+  ],
+  "unassigned": [
+    "Adventure Cove Waterpark",
+    "East Coast Park Singapore",
+    "Esplanade Theatre",
+    "Jurong Bird Park",
+    "MacRitchie Singapore & Singapore Nature Reserve",
+    "Night Safari",
+    "Pulau Ubin & Singapore Islands",
+    "River Safari Singapore",
+    "S.E.A. Aquarium",
+    "Universal Studios Singapore Theme Park",
+    "Cable Car Singapore & Mount Faber",
+    "Marina Barrage",
+    "Chinese Garden Singapore",
+    "Chek Jawa",
+    "Henderson Waves Bridge",
+    "Labrador Nature Reserve",
+    "Reflections at Bukit Chandu",
+    "CHIJMES Singapore",
+    "Victoria Theatre Singapore",
+    "Contemporary Arts Center",
+    "The Civilian War Memorial park in Singapore",
+    "SIT Flats Singapore",
+    "Lau Pa Sat Singapore",
+    "Peranakan Museum Singapore",
+    "Singapore Science Centre",
+    "Singapore Flyer",
+    "Sri Veeramakaliamman Temple",
+    "Singapore Zoo",
+    "HortPark",
+    "Asian Civilisations Museum & Singapore Museum",
+    "National Design Centre Singapore",
+    "Chinatown Heritage Centre",
+    "Marina Bay Sands",
+    "Armenian Church in Singapore",
+    "Maghain Aboth Synagogue",
+    "Marina Bay Sands Sky Park Observation Deck",
+    "Gardens by the Bay",
+    "Old Supreme Court Singapore",
+    "National Gallery Singapore",
+    "The Cenotaph",
+    "Indian National Army (INA) Monument in Singapore",
+    "Jamae Mosque (Masjid Chulia) Singapore"
+  ]
+}

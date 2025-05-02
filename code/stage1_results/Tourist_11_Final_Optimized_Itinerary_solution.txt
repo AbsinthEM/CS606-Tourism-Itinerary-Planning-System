@@ -1,0 +1,58 @@
+Objective (negative): -0.5448
+Objective (positive): 0.5448
+Tourist ID: 11
+Budget: SGD $554
+Money spent: SGD $0
+Preferences: ['Nature', 'Sporty']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 480.00
+Distance (raw): 38.86 km
+Number of attractions: 4
+
+Normalized Fun: 0.4935
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5448
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Henderson Waves Bridge
+    Time: 12.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - HortPark
+    Time: 12.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.98 km (~0.17 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 12.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.72 km (~0.16 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Labrador Nature Reserve
+    Time: 12.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.77 km (~0.19 hours)

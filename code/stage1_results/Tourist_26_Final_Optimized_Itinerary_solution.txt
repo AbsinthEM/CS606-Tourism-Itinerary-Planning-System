@@ -1,0 +1,115 @@
+Objective (negative): -0.6729
+Objective (positive): 0.6729
+Tourist ID: 26
+Budget: SGD $663
+Money spent: SGD $209
+Preferences: ['Culinary']
+Days: 5
+Unassigned attractions: 44
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 423.00
+Distance (raw): 70.05 km
+Number of attractions: 13
+
+Normalized Fun: 0.3479
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.8667
+
+Weighted fun contribution: 0.1491
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3095
+
+Weighted Objective (positive): 0.6729
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 3.44 km (~0.11 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.08 km (~0.04 hours)
+
+  - CHIJMES Singapore
+    Time: 12.1 - 16.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 1.64 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 1.06 km (~0.04 hours)
+
+  - Kranji War Memorial Landmark in Singapore
+    Time: 12.6 - 15.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 18.86 km (~0.63 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Marina Barrage
+    Time: 9.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.75 km (~0.16 hours)
+
+  - Maghain Aboth Synagogue
+    Time: 12.3 - 13.3
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 2.98 km (~0.10 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 14.3 - 18.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.89 km (~0.06 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Armenian Church in Singapore
+    Time: 10.0 - 11.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 2.00 km (~0.07 hours)
+
+  - Raffles Singapore
+    Time: 11.0 - 14.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 0.59 km (~0.02 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 16.1 - 18.1
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 0.04 km (~0.00 hours)

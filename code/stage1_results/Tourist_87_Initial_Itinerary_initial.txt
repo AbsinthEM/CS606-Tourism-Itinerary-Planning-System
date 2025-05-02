@@ -1,0 +1,49 @@
+Objective (negative): -0.5994
+Objective (positive): 0.5994
+Tourist ID: 87
+Budget: SGD $458
+Money spent: SGD $0
+Preferences: ['Family', 'Sporty', 'Nature']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 495.00
+Distance (raw): 71.88 km
+Number of attractions: 3
+
+Normalized Fun: 0.6786
+Normalized Distance: 0.8847
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2908
+Weighted distance contribution: 0.1896
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5994
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Marina Barrage
+    Time: 10.4 - 13.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 11.68 km (~0.39 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 10.5 - 13.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 16.09 km (~0.54 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 10.3 - 13.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.17 km (~0.27 hours)

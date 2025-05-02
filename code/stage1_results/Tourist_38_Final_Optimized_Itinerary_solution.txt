@@ -1,0 +1,67 @@
+Objective (negative): -0.4091
+Objective (positive): 0.4091
+Tourist ID: 38
+Budget: SGD $641
+Money spent: SGD $100
+Preferences: ['Shopping']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 306.00
+Distance (raw): 145.62 km
+Number of attractions: 5
+
+Normalized Fun: 0.2517
+Normalized Distance: 0.8502
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1079
+Weighted distance contribution: 0.1822
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4091
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 11.7 - 15.7
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 20.79 km (~0.69 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Bay Sands
+    Time: 11.6 - 14.6
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 16.75 km (~0.56 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Changi Museum Singapore
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.99 km (~0.07 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Raffles Singapore
+    Time: 11.6 - 14.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 16.65 km (~0.56 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 11.6 - 13.6
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 16.62 km (~0.55 hours)

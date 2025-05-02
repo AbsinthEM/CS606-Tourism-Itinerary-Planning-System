@@ -1,0 +1,91 @@
+Objective (negative): -0.6422
+Objective (positive): 0.6422
+Tourist ID: 91
+Budget: SGD $659
+Money spent: SGD $235
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 606.00
+Distance (raw): 59.30 km
+Number of attractions: 9
+
+Normalized Fun: 0.4984
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.6000
+
+Weighted fun contribution: 0.2136
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2143
+
+Weighted Objective (positive): 0.6422
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.1 - 13.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 2.22 km (~0.07 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Dalhousie Obelisk
+    Time: 10.1 - 10.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - The Cenotaph
+    Time: 10.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 2.57 km (~0.09 hours)
+
+  - Victoria Theatre Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $100
+    Categories: ['Cultural', 'Family']
+    Travel: 0.33 km (~0.01 hours)
+
+  - Chinatown Heritage Centre
+    Time: 15.1 - 17.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.92 km (~0.03 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 10.1 - 14.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.09 km (~0.10 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.70 km (~0.09 hours)
+
+  - Jurong Bird Park
+    Time: 13.6 - 17.6
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 15.88 km (~0.53 hours)
+
+  - Chinatown Food Street
+    Time: 18.1 - 19.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 15.80 km (~0.53 hours)

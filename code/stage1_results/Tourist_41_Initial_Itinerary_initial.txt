@@ -1,0 +1,67 @@
+Objective (negative): -0.5328
+Objective (positive): 0.5328
+Tourist ID: 41
+Budget: SGD $651
+Money spent: SGD $8
+Preferences: ['Nature', 'Sporty']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 600.00
+Distance (raw): 83.93 km
+Number of attractions: 5
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.9439
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.2023
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5328
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 8.6 - 13.6
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 18.28 km (~0.61 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Barrage
+    Time: 8.2 - 11.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.75 km (~0.16 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 8.3 - 11.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.46 km (~0.28 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 8.2 - 11.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.72 km (~0.16 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Labrador Nature Reserve
+    Time: 8.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.77 km (~0.19 hours)

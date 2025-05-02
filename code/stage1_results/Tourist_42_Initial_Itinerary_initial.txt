@@ -1,0 +1,40 @@
+Objective (negative): -0.4481
+Objective (positive): 0.4481
+Tourist ID: 42
+Budget: SGD $341
+Money spent: SGD $50
+Preferences: ['Shopping']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 150.00
+Distance (raw): 39.72 km
+Number of attractions: 2
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9185
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1968
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4481
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.3 - 13.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 9.61 km (~0.32 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.3 - 13.3
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 10.25 km (~0.34 hours)

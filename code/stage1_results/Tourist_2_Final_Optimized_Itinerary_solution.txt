@@ -1,0 +1,82 @@
+Objective (negative): -0.5680
+Objective (positive): 0.5680
+Tourist ID: 2
+Budget: SGD $541
+Money spent: SGD $165
+Preferences: ['Culinary']
+Days: 4
+Unassigned attractions: 49
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 324.00
+Distance (raw): 141.42 km
+Number of attractions: 8
+
+Normalized Fun: 0.3331
+Normalized Distance: 0.8732
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.1428
+Weighted distance contribution: 0.1871
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.5680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 10.8 - 12.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 24.10 km (~0.80 hours)
+
+  - Jurong Bird Park
+    Time: 13.8 - 17.8
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - National Design Centre Singapore
+    Time: 18.4 - 19.4
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 16.50 km (~0.55 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Labrador Nature Reserve
+    Time: 10.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.07 km (~0.17 hours)
+
+  - CHIJMES Singapore
+    Time: 13.3 - 17.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 6.40 km (~0.21 hours)
+
+  - Marina Bay Sands
+    Time: 17.4 - 20.4
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.47 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.3 - 13.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 9.61 km (~0.32 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 10.3 - 14.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)

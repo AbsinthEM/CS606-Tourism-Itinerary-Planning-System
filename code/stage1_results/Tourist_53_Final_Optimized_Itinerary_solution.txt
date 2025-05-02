@@ -1,0 +1,52 @@
+Objective (negative): -0.6291
+Objective (positive): 0.6291
+Tourist ID: 53
+Budget: SGD $375
+Money spent: SGD $70
+Preferences: ['Culinary']
+Days: 2
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 231.00
+Distance (raw): 71.96 km
+Number of attractions: 4
+
+Normalized Fun: 0.4750
+Normalized Distance: 0.8748
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.2036
+Weighted distance contribution: 0.1875
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.6291
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - CHIJMES Singapore
+    Time: 9.6 - 13.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 16.94 km (~0.56 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.6 - 10.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 17.25 km (~0.57 hours)
+
+  - Marina Bay Sands
+    Time: 10.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 0.81 km (~0.03 hours)
+
+  - Chinatown Food Street
+    Time: 14.8 - 15.8
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.70 km (~0.06 hours)

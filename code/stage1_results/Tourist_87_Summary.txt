@@ -1,0 +1,44 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 87
+Preferences: ['Family', 'Sporty', 'Nature']
+Days: 3
+Budget: SGD $458
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.8937
+Optimized Solution: 0.8937
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.6169          0.6169          +0.0%
+Distance             0.9756          0.9756          +0.0%
+Attractions          0.3333          0.3333          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    3               3              
+Total Distance (km)  38.86           38.86          
+Raw Fun Score        450.00          450.00         
+Money Spent ($)      44              44             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - HortPark
+  Day 3: 1 attractions - S.E.A. Aquarium
+
+Optimized Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - HortPark
+  Day 3: 1 attractions - S.E.A. Aquarium
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Family, Nature, Outdoor, Sporty
+Optimized Solution: Family, Nature, Outdoor, Sporty

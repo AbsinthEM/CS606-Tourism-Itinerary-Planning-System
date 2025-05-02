@@ -1,0 +1,46 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 54
+Preferences: ['Culinary']
+Days: 4
+Budget: SGD $564
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.7925
+Optimized Solution: 0.7925
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3208          0.3208          +0.0%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.5000          0.5000          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    6               6              
+Total Distance (km)  22.47           22.47          
+Raw Fun Score        312.00          312.00         
+Money Spent ($)      150             150            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Fuk Tak Chi Museum, HortPark
+  Day 3: 1 attractions - Raffles Singapore
+  Day 4: 1 attractions - CHIJMES Singapore
+
+Optimized Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Fuk Tak Chi Museum, HortPark
+  Day 3: 1 attractions - Raffles Singapore
+  Day 4: 1 attractions - CHIJMES Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty

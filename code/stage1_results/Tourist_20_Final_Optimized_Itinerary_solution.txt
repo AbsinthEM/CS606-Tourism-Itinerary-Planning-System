@@ -1,0 +1,61 @@
+Objective (negative): -0.6330
+Objective (positive): 0.6330
+Tourist ID: 20
+Budget: SGD $462
+Money spent: SGD $0
+Preferences: ['Shopping', 'Nature']
+Days: 3
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 375.00
+Distance (raw): 47.65 km
+Number of attractions: 5
+
+Normalized Fun: 0.5141
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.5556
+
+Weighted fun contribution: 0.2203
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1984
+
+Weighted Objective (positive): 0.6330
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 5.25 km (~0.18 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Henderson Waves Bridge
+    Time: 10.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.91 km (~0.10 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - HortPark
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.12 km (~0.14 hours)
+
+  - Labrador Nature Reserve
+    Time: 13.4 - 15.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.47 km (~0.05 hours)
+
+  - Chinese Garden Singapore
+    Time: 15.8 - 17.8
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 11.40 km (~0.38 hours)

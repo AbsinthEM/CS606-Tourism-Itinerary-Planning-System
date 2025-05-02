@@ -1,0 +1,64 @@
+Objective (negative): -0.9293
+Objective (positive): 0.9293
+Tourist ID: 49
+Budget: SGD $365
+Money spent: SGD $104
+Preferences: ['Family']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 450.00
+Distance (raw): 103.76 km
+Number of attractions: 6
+
+Normalized Fun: 0.9253
+Normalized Distance: 0.8192
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.1756
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9293
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 10.5 - 12.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 14.87 km (~0.50 hours)
+
+  - Jurong Bird Park
+    Time: 13.5 - 17.5
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - Dalhousie Obelisk
+    Time: 18.1 - 18.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 16.61 km (~0.55 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Cable Car Singapore & Mount Faber
+    Time: 10.2 - 12.2
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.17 km (~0.17 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 14.2 - 15.2
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 4.55 km (~0.15 hours)
+
+  - Chinese Garden Singapore
+    Time: 17.6 - 19.6
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 15.59 km (~0.52 hours)

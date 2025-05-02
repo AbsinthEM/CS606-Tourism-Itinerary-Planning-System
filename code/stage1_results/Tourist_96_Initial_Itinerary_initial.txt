@@ -1,0 +1,58 @@
+Objective (negative): -0.5305
+Objective (positive): 0.5305
+Tourist ID: 96
+Budget: SGD $539
+Money spent: SGD $8
+Preferences: ['Nature', 'Sporty']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 480.00
+Distance (raw): 72.40 km
+Number of attractions: 4
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.9331
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.1999
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5305
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 11.6 - 16.6
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 18.28 km (~0.61 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Barrage
+    Time: 11.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.75 km (~0.16 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 11.3 - 14.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.46 km (~0.28 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 11.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.72 km (~0.16 hours)

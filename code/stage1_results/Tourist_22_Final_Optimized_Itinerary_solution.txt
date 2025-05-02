@@ -1,0 +1,103 @@
+Objective (negative): -0.5716
+Objective (positive): 0.5716
+Tourist ID: 22
+Budget: SGD $656
+Money spent: SGD $146
+Preferences: ['Shopping']
+Days: 5
+Unassigned attractions: 46
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 273.00
+Distance (raw): 112.35 km
+Number of attractions: 11
+
+Normalized Fun: 0.2245
+Normalized Distance: 0.9961
+Normalized #Attractions: 0.7333
+
+Weighted fun contribution: 0.0962
+Weighted distance contribution: 0.2135
+Weighted attractions contribution: 0.2619
+
+Weighted Objective (positive): 0.5716
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.3 - 9.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 9.48 km (~0.32 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 0.83 km (~0.03 hours)
+
+  - National Gallery Singapore
+    Time: 12.0 - 15.0
+    Cost: SGD $14
+    Categories: ['Cultural', 'Family']
+    Travel: 1.13 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 9.61 km (~0.32 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Eurasian Heritage Centre
+    Time: 9.5 - 10.5
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 14.74 km (~0.49 hours)
+
+  - Chinatown Heritage Centre
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 6.77 km (~0.23 hours)
+
+  - SIT Flats Singapore
+    Time: 14.0 - 16.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 1.20 km (~0.04 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.3 - 9.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Marina Bay Sands
+    Time: 10.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.13 km (~0.04 hours)
+
+  - Chinese Garden Singapore
+    Time: 14.6 - 16.6
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 15.59 km (~0.52 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 10.0 - 14.0
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 4.98 km (~0.17 hours)

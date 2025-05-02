@@ -1,0 +1,48 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 41
+Preferences: ['Nature', 'Sporty']
+Days: 5
+Budget: SGD $651
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.7540
+Optimized Solution: 0.9362
+Improvement: 24.2%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.2788          0.3603          +29.2%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.4667          0.8000          +71.4%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    7               12             
+Total Distance (km)  69.92           108.39         
+Raw Fun Score        339.00          438.00         
+Money Spent ($)      101             158            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+  Day 3: 3 attractions - S.E.A. Aquarium, Fuk Tak Chi Museum, Chinatown Heritage Centre
+  Day 4: 1 attractions - National Gallery Singapore
+  Day 5: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+
+Optimized Solution:
+  Day 1: 2 attractions - Jurong Bird Park, Henderson Waves Bridge
+  Day 2: 1 attractions - Marina Barrage
+  Day 3: 3 attractions - Lasalle College of the Arts, Marina Bay Sands Sky Park Observation Deck, Reflections at Bukit Chandu
+  Day 4: 3 attractions - Changi Museum Singapore, Sri Veeramakaliamman Temple, Jamae Mosque (Masjid Chulia) Singapore
+  Day 5: 3 attractions - S.E.A. Aquarium, Fuk Tak Chi Museum, Asian Civilisations Museum & Singapore Museum
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Cultural, Family, Nature, Outdoor, Sporty

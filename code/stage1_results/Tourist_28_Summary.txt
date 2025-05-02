@@ -1,0 +1,46 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 28
+Preferences: ['Shopping']
+Days: 4
+Budget: SGD $567
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.5930
+Optimized Solution: 0.5930
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.2375          0.2375          +0.0%
+Distance             0.7929          0.7929          +0.0%
+Attractions          0.3333          0.3333          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    4               4              
+Total Distance (km)  145.74          145.74         
+Raw Fun Score        231.00          231.00         
+Money Spent ($)      100             100            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Raffles Singapore
+  Day 2: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 3: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+  Day 4: 1 attractions - MINT Museum of Toys Singapore & Toy Museum
+
+Optimized Solution:
+  Day 1: 1 attractions - Raffles Singapore
+  Day 2: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 3: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+  Day 4: 1 attractions - MINT Museum of Toys Singapore & Toy Museum
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty

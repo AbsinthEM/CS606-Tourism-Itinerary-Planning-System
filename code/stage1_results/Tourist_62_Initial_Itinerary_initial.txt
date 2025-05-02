@@ -1,0 +1,40 @@
+Objective (negative): -0.4976
+Objective (positive): 0.4976
+Tourist ID: 62
+Budget: SGD $352
+Money spent: SGD $8
+Preferences: ['Nature', 'Sporty']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 240.00
+Distance (raw): 73.42 km
+Number of attractions: 2
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.7794
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.1670
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4976
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 9.8 - 14.8
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 25.03 km (~0.83 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Barrage
+    Time: 9.4 - 12.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 11.68 km (~0.39 hours)

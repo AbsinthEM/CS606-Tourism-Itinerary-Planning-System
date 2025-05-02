@@ -1,0 +1,67 @@
+Objective (negative): -0.5290
+Objective (positive): 0.5290
+Tourist ID: 25
+Budget: SGD $663
+Money spent: SGD $150
+Preferences: ['Culinary', 'Cultural']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 555.00
+Distance (raw): 48.10 km
+Number of attractions: 5
+
+Normalized Fun: 0.4565
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1956
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5290
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 11.2 - 14.2
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 5.92 km (~0.20 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - CHIJMES Singapore
+    Time: 11.2 - 15.2
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 5.69 km (~0.19 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 11.1 - 15.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.35 km (~0.15 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.03 km (~0.13 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Chinatown Food Street
+    Time: 11.1 - 12.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.05 km (~0.14 hours)

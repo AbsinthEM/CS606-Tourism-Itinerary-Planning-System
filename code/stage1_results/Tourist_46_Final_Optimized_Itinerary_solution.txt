@@ -1,0 +1,64 @@
+Objective (negative): -0.9680
+Objective (positive): 0.9680
+Tourist ID: 46
+Budget: SGD $357
+Money spent: SGD $50
+Preferences: ['Shopping', 'Sporty']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 450.00
+Distance (raw): 47.75 km
+Number of attractions: 6
+
+Normalized Fun: 0.9253
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 8.1 - 9.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 12.3 - 15.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.71 km (~0.26 hours)
+
+  - Raffles Singapore
+    Time: 15.5 - 18.5
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 6.49 km (~0.22 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - HortPark
+    Time: 8.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.98 km (~0.17 hours)
+
+  - East Coast Park Singapore
+    Time: 10.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 12.74 km (~0.42 hours)
+
+  - Marina Bay Sands
+    Time: 15.2 - 18.2
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 6.21 km (~0.21 hours)

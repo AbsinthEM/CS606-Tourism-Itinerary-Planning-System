@@ -1,0 +1,49 @@
+Objective (negative): -0.4263
+Objective (positive): 0.4263
+Tourist ID: 33
+Budget: SGD $462
+Money spent: SGD $65
+Preferences: ['Shopping']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 100.05 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8171
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1751
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4263
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.6 - 13.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 16.65 km (~0.56 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 10.6 - 12.6
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 16.62 km (~0.55 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 16.75 km (~0.56 hours)

@@ -1,0 +1,40 @@
+Objective (negative): -0.4895
+Objective (positive): 0.4895
+Tourist ID: 84
+Budget: SGD $346
+Money spent: SGD $58
+Preferences: ['Cultural', 'Shopping', 'Sporty']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 195.00
+Distance (raw): 37.72 km
+Number of attractions: 2
+
+Normalized Fun: 0.4010
+Normalized Distance: 0.9268
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1718
+Weighted distance contribution: 0.1986
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4895
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 10.6 - 15.6
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 17.63 km (~0.59 hours)

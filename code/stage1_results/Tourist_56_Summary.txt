@@ -1,0 +1,47 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 56
+Preferences: ['Family']
+Days: 4
+Budget: SGD $558
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.7050
+Optimized Solution: 1.2275
+Improvement: 74.1%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.7125          +131.0%
+Distance             0.9666          1.0000          +3.5%
+Attractions          0.3333          1.0000          +200.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    4               12             
+Total Distance (km)  56.17           118.97         
+Raw Fun Score        300.00          693.00         
+Money Spent ($)      57              145            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+  Day 3: 1 attractions - National Gallery Singapore
+  Day 4: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+
+Optimized Solution:
+  Day 1: 3 attractions - Changi Museum Singapore, Jurong Bird Park, National Design Centre Singapore
+  Day 2: 3 attractions - Dalhousie Obelisk, River Safari Singapore, Chinatown Food Street
+  Day 3: 3 attractions - Contemporary Arts Center, Armenian Church in Singapore, Asian Civilisations Museum & Singapore Museum
+  Day 4: 3 attractions - ArtScience Museum Singapore, Fuk Tak Chi Museum, Jamae Mosque (Masjid Chulia) Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor
+New Categories Added: Culinary

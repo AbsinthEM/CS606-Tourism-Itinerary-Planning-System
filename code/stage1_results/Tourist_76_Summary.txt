@@ -1,0 +1,46 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 76
+Preferences: ['Cultural']
+Days: 4
+Budget: SGD $550
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.8776
+Optimized Solution: 1.3552
+Improvement: 54.4%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.4627          0.9253          +100.0%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.5000          1.0000          +100.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    6               12             
+Total Distance (km)  27.43           55.46          
+Raw Fun Score        450.00          900.00         
+Money Spent ($)      126             59             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Gardens by the Bay
+  Day 2: 1 attractions - Lau Pa Sat Singapore
+  Day 3: 3 attractions - Raffles Singapore, Fuk Tak Chi Museum, Chinatown Heritage Centre
+  Day 4: 1 attractions - National Gallery Singapore
+
+Optimized Solution:
+  Day 1: 3 attractions - National Design Centre Singapore, Indian National Army (INA) Monument in Singapore, Chinatown Food Street
+  Day 2: 3 attractions - Dalhousie Obelisk, The Cenotaph, Eurasian Heritage Centre
+  Day 3: 3 attractions - Malay Heritage Centre Singapore, Fuk Tak Chi Museum, Contemporary Arts Center
+  Day 4: 3 attractions - Gillman Barracks, Armenian Church in Singapore, Maghain Aboth Synagogue
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping
+Optimized Solution: Culinary, Cultural, Family, Outdoor

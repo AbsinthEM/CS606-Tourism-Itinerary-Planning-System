@@ -1,0 +1,49 @@
+Objective (negative): -0.4655
+Objective (positive): 0.4655
+Tourist ID: 36
+Budget: SGD $450
+Money spent: SGD $32
+Preferences: ['Cultural']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 18.44 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4655
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Gardens by the Bay
+    Time: 10.1 - 14.1
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Fuk Tak Chi Museum
+    Time: 10.1 - 10.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - The Civilian War Memorial park in Singapore
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 2.44 km (~0.08 hours)

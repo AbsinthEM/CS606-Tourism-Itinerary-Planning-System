@@ -1,0 +1,91 @@
+Objective (negative): -0.6415
+Objective (positive): 0.6415
+Tourist ID: 19
+Budget: SGD $670
+Money spent: SGD $142
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 606.00
+Distance (raw): 92.07 km
+Number of attractions: 9
+
+Normalized Fun: 0.4984
+Normalized Distance: 0.9966
+Normalized #Attractions: 0.6000
+
+Weighted fun contribution: 0.2136
+Weighted distance contribution: 0.2136
+Weighted attractions contribution: 0.2143
+
+Weighted Objective (positive): 0.6415
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Sri Veeramakaliamman Temple
+    Time: 10.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 2.41 km (~0.08 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 10.5 - 12.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 14.87 km (~0.50 hours)
+
+  - Jurong Bird Park
+    Time: 13.5 - 17.5
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - Dalhousie Obelisk
+    Time: 18.1 - 18.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 16.61 km (~0.55 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Reflections at Bukit Chandu
+    Time: 10.3 - 14.3
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 7.61 km (~0.25 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Chinatown Heritage Centre
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.06 km (~0.07 hours)
+
+  - Raffles Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.71 km (~0.06 hours)
+
+  - Chinatown Food Street
+    Time: 18.0 - 19.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.88 km (~0.06 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Gardens by the Bay
+    Time: 10.0 - 14.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 0.75 km (~0.02 hours)

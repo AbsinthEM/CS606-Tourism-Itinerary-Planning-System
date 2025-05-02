@@ -1,0 +1,64 @@
+Objective (negative): -0.9573
+Objective (positive): 0.9573
+Tourist ID: 58
+Budget: SGD $365
+Money spent: SGD $55
+Preferences: ['Cultural']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 450.00
+Distance (raw): 72.70 km
+Number of attractions: 6
+
+Normalized Fun: 0.9253
+Normalized Distance: 0.9503
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2036
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9573
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Lasalle College of the Arts
+    Time: 8.6 - 9.6
+    Cost: SGD $10
+    Categories: ['Cultural']
+    Travel: 16.61 km (~0.55 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 2.43 km (~0.08 hours)
+
+  - Old Supreme Court Singapore
+    Time: 12.0 - 14.0
+    Cost: SGD $20
+    Categories: ['Cultural']
+    Travel: 1.17 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Maghain Aboth Synagogue
+    Time: 8.6 - 9.6
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 16.90 km (~0.56 hours)
+
+  - Armenian Church in Singapore
+    Time: 12.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 0.57 km (~0.02 hours)
+
+  - Changi Museum Singapore
+    Time: 13.6 - 15.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 15.81 km (~0.53 hours)

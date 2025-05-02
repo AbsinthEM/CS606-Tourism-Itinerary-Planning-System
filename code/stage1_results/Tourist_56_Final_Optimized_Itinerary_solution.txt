@@ -1,0 +1,100 @@
+Objective (negative): -0.9052
+Objective (positive): 0.9052
+Tourist ID: 56
+Budget: SGD $558
+Money spent: SGD $174
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 46
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 825.00
+Distance (raw): 96.26 km
+Number of attractions: 11
+
+Normalized Fun: 0.8482
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.9167
+
+Weighted fun contribution: 0.3635
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3274
+
+Weighted Objective (positive): 0.9052
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 10.0 - 14.0
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 2.72 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 14.1 - 15.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.24 km (~0.14 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 16.2 - 18.2
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.90 km (~0.06 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 1.06 km (~0.04 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.56 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 9.6 - 13.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.70 km (~0.02 hours)
+
+  - HortPark
+    Time: 16.3 - 18.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.64 km (~0.19 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 2 attractions:
+  - Jurong Bird Park
+    Time: 9.5 - 13.5
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.51 km (~0.48 hours)
+
+  - Chek Jawa
+    Time: 14.5 - 17.5
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.26 km (~1.01 hours)

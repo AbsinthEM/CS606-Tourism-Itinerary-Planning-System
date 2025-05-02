@@ -1,0 +1,40 @@
+Objective (negative): -0.4574
+Objective (positive): 0.4574
+Tourist ID: 52
+Budget: SGD $360
+Money spent: SGD $85
+Preferences: ['Shopping']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 150.00
+Distance (raw): 29.18 km
+Number of attractions: 2
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9621
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2062
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4574
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 11.3 - 14.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 9.61 km (~0.32 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 11.2 - 15.2
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 4.98 km (~0.17 hours)

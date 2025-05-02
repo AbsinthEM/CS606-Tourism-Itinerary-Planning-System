@@ -1,0 +1,58 @@
+Objective (negative): -0.4238
+Objective (positive): 0.4238
+Tourist ID: 93
+Budget: SGD $561
+Money spent: SGD $70
+Preferences: ['Cultural']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 139.39 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8054
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1726
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4238
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Chinatown Food Street
+    Time: 11.6 - 12.6
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 18.32 km (~0.61 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Fort Canning Park
+    Time: 11.6 - 14.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 17.47 km (~0.58 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Raffles Singapore
+    Time: 11.6 - 14.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 16.65 km (~0.56 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Dalhousie Obelisk
+    Time: 11.6 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 17.25 km (~0.57 hours)

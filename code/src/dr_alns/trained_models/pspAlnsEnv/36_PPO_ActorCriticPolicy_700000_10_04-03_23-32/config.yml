@@ -1,0 +1,26 @@
+environment:
+    env_id: pspAlnsEnv
+    iterations: 1000
+main:
+    model: PPO
+    policy: ActorCriticPolicy
+    n_workers: 10
+    n_steps: 700000
+    save_every: 200000
+    eval_callback: false
+    eval_every: 10000
+    eval_episodes: 10
+    deterministic: false
+models:
+    PPO:
+        n_steps: 256
+        batch_size: 64
+        n_epochs: 10
+        gamma: 0.99
+        gae_lambda: 0.95
+        clip_range: 0.2
+        ent_coef: 0.0
+        learning_rate: 0.0001
+        vf_coef: 0.5
+        max_grad_norm: 0.5
+        verbose: 1

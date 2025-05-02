@@ -1,0 +1,70 @@
+Objective (negative): -0.5303
+Objective (positive): 0.5303
+Tourist ID: 54
+Budget: SGD $564
+Money spent: SGD $165
+Preferences: ['Culinary']
+Days: 4
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 312.00
+Distance (raw): 13.63 km
+Number of attractions: 6
+
+Normalized Fun: 0.3208
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.5000
+
+Weighted fun contribution: 0.1375
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1786
+
+Weighted Objective (positive): 0.5303
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 9.1 - 13.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.56 km (~0.05 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.61 km (~0.05 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 12.1 - 14.1
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.90 km (~0.06 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - CHIJMES Singapore
+    Time: 9.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 1.38 km (~0.05 hours)

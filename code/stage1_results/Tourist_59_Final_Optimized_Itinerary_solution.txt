@@ -1,0 +1,58 @@
+Objective (negative): -0.4590
+Objective (positive): 0.4590
+Tourist ID: 59
+Budget: SGD $543
+Money spent: SGD $114
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 54.64 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9698
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2078
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4590
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Singapore Zoo
+    Time: 11.5 - 16.5
+    Cost: SGD $49
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.97 km (~0.50 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 11.2 - 15.2
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 5.85 km (~0.19 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Cable Car Singapore & Mount Faber
+    Time: 11.2 - 13.2
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.17 km (~0.17 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Marina Barrage
+    Time: 11.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.34 km (~0.04 hours)

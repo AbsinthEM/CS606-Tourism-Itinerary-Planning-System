@@ -1,0 +1,106 @@
+Objective (negative): -1.1068
+Objective (positive): 1.1068
+Tourist ID: 55
+Budget: SGD $575
+Money spent: SGD $110
+Preferences: ['Nature', 'Sporty']
+Days: 4
+Unassigned attractions: 45
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 1215.00
+Distance (raw): 118.67 km
+Number of attractions: 12
+
+Normalized Fun: 1.2492
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.5354
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 1.1068
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Labrador Nature Reserve
+    Time: 8.1 - 10.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.99 km (~0.10 hours)
+
+  - Fort Canning Park
+    Time: 10.3 - 13.3
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.91 km (~0.20 hours)
+
+  - Henderson Waves Bridge
+    Time: 18.0 - 19.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.07 km (~0.14 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Cable Car Singapore & Mount Faber
+    Time: 9.0 - 11.0
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 2.25 km (~0.07 hours)
+
+  - Marina Barrage
+    Time: 12.1 - 15.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.93 km (~0.20 hours)
+
+  - Singapore Flyer
+    Time: 15.1 - 17.1
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 1.29 km (~0.04 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 8.8 - 13.8
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 23.46 km (~0.78 hours)
+
+  - Chek Jawa
+    Time: 13.8 - 16.8
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 0.83 km (~0.03 hours)
+
+  - HortPark
+    Time: 17.9 - 19.9
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 23.20 km (~0.77 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 8.3 - 11.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.39 km (~0.35 hours)
+
+  - Gardens by the Bay
+    Time: 11.6 - 15.6
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.37 km (~0.28 hours)
+
+  - East Coast Park Singapore
+    Time: 16.5 - 19.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.80 km (~0.19 hours)

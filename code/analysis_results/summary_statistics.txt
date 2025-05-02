@@ -1,0 +1,95 @@
+TOURISM ITINERARY PLANNING - COMPREHENSIVE ANALYSIS
+======================================================================
+
+Total tourists analyzed: 100
+
+AVERAGE OBJECTIVE VALUES BY METHOD:
+--------------------------------------------------
+Initial Heuristic: 0.4829
+ALNS Optimized: 0.6252
+Quick Repair (with disruptions): -0.8712
+ALNS Replanning (with disruptions): 0.0161
+
+MEDIAN OBJECTIVE VALUES BY METHOD:
+--------------------------------------------------
+Initial Heuristic median: 0.4655
+ALNS Optimized median: 0.5445
+Quick Repair (with disruptions) median: -0.3322
+ALNS Replanning (with disruptions) median: 0.0303
+
+COUNTS OF CASES WHERE ALNS DIDN'T IMPROVE:
+--------------------------------------------------
+Stage 1: 18 (18.0%)
+Stage 2: 14 (14.0%)
+
+STAGE 1: ALNS OPTIMIZATION ANALYSIS
+==================================================
+Average improvement from Initial to Optimized: 29.36%
+Median improvement from Initial to Optimized: 5.49%
+
+SAFETY NET ACTIVATION ANALYSIS (STAGE 1):
+--------------------------------------------------
+Cases where ALNS reverted to initial solution: 18 (18.0%)
+Note: Stage 1 has an existing safety net implementation that reverts to the initial
+solution when ALNS fails to find an improvement.
+
+Breakdown by preference group:
+  ["'Culinary'", "'Shopping'"]: 1 cases
+  ["'Culinary'"]: 4 cases
+  ["'Cultural'"]: 5 cases
+  ["'Nature'", "'Sporty'"]: 2 cases
+  ["'Shopping'"]: 6 cases
+
+STAGE 2: DISRUPTION HANDLING ANALYSIS
+==================================================
+Mean improvement from Quick Repair to ALNS Replan: 44.30%
+Median improvement from Quick Repair to ALNS Replan: 63.75%
+ALNS REPLANNING METRICS:
+--------------------------------------------------
+Mean stability score: 0.7451
+Mean proximity score: 0.9223
+Median stability score: 0.7698
+Median proximity score: 0.9614
+
+DISRUPTION HANDLING METHOD COMPARISON:
+--------------------------------------------------
+Quick Repair was better for 14 tourists
+ALNS Replanning was better for 86 tourists
+Methods tied for 0 tourists
+Quick Repair win rate: 14.0%
+ALNS Replanning win rate: 86.0%
+
+STAGE 2 SAFETY NET ANALYSIS (FUTURE IMPLEMENTATION):
+--------------------------------------------------
+Cases where Quick Repair outperformed ALNS Replanning: 14 (14.0%)
+Average margin in these cases: 0.5610
+Median margin in these cases: 0.4840
+Note: Unlike Stage 1, Stage 2 currently has no safety net implementation.
+
+Top 5 cases where Quick Repair outperforms ALNS Replanning:
+----------------------------------------------------------------------
+Tourist 91: QR=0.4816, ALNS=-0.6548, Diff=1.1364
+  Preferences: ["'Cultural'"]
+  Attractions: Initial=5, Optimized=9
+Tourist 24: QR=0.4655, ALNS=-0.6647, Diff=1.1302
+  Preferences: ["'Cultural'"]
+  Attractions: Initial=5, Optimized=5
+Tourist 78: QR=0.4283, ALNS=-0.6803, Diff=1.1086
+  Preferences: ["'Cultural'"]
+  Attractions: Initial=5, Optimized=5
+Tourist 16: QR=0.6293, ALNS=0.0997, Diff=0.5296
+  Preferences: ["'Culinary'", "'Family'"]
+  Attractions: Initial=7, Optimized=15
+Tourist 41: QR=0.5371, ALNS=0.0480, Diff=0.4891
+  Preferences: ["'Nature'", "'Sporty'"]
+  Attractions: Initial=5, Optimized=13
+
+Potential Safety Net Implementation for Stage 2:
+Current ALNS Replanning mean: 0.0161
+With Safety Net mean: 0.0947
+Mean improvement: 486.36%
+Current ALNS Replanning median: 0.0303
+With Safety Net median: 0.2525
+Median improvement: 731.80%
+Recommendation: Implement a safety net in Stage 2 that selects the better
+solution between Quick Repair and ALNS Replanning for each tourist.

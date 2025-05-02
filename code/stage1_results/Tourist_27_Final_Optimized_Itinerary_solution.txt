@@ -1,0 +1,115 @@
+Objective (negative): -0.6486
+Objective (positive): 0.6486
+Tourist ID: 27
+Budget: SGD $649
+Money spent: SGD $195
+Preferences: ['Culinary']
+Days: 5
+Unassigned attractions: 44
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 354.00
+Distance (raw): 118.60 km
+Number of attractions: 13
+
+Normalized Fun: 0.2912
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.8667
+
+Weighted fun contribution: 0.1248
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3095
+
+Weighted Objective (positive): 0.6486
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Armenian Church in Singapore
+    Time: 10.0 - 11.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 9.13 km (~0.30 hours)
+
+  - Raffles Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 0.59 km (~0.02 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 15.1 - 17.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.89 km (~0.06 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Maghain Aboth Synagogue
+    Time: 9.3 - 10.3
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 9.26 km (~0.31 hours)
+
+  - East Coast Park Singapore
+    Time: 12.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.83 km (~0.23 hours)
+
+  - Singapore Flyer
+    Time: 15.4 - 17.4
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.61 km (~0.19 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 9.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.75 km (~0.19 hours)
+
+  - Malay Heritage Centre Singapore
+    Time: 10.4 - 13.4
+    Cost: SGD $6
+    Categories: ['Cultural', 'Family']
+    Travel: 5.80 km (~0.19 hours)
+
+  - S.E.A. Aquarium
+    Time: 14.5 - 17.5
+    Cost: SGD $44
+    Categories: ['Nature', 'Family']
+    Travel: 6.80 km (~0.23 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 9.3 - 13.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.3 - 9.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - Marina Bay Sands
+    Time: 12.1 - 15.1
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.70 km (~0.06 hours)

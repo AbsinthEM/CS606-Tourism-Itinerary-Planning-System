@@ -1,0 +1,49 @@
+Objective (negative): -0.4493
+Objective (positive): 0.4493
+Tourist ID: 47
+Budget: SGD $464
+Money spent: SGD $82
+Preferences: ['Cultural']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 57.51 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9243
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1981
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4493
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 12.3 - 16.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Gardens by the Bay
+    Time: 12.4 - 16.4
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.79 km (~0.36 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Chinatown Food Street
+    Time: 12.3 - 13.3
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 8.60 km (~0.29 hours)

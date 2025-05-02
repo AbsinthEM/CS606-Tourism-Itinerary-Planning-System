@@ -1,0 +1,157 @@
+{
+  "tourist": {
+    "id": "1",
+    "budget": 2000,
+    "hotelLat": 1.2868,
+    "hotelLng": 103.8545
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "attractions": [
+        {
+          "name": "Marina Bay Sands",
+          "time": "10.0-13.0",
+          "cost": 0,
+          "categories": [
+            "Shopping",
+            "Culinary"
+          ],
+          "lat": 1.284,
+          "lng": 103.85899
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "attractions": [
+        {
+          "name": "Raffles Singapore",
+          "time": "10.0-13.0",
+          "cost": 50,
+          "categories": [
+            "Cultural",
+            "Shopping",
+            "Culinary"
+          ],
+          "lat": 1.296,
+          "lng": 103.85404
+        },
+        {
+          "name": "Fuk Tak Chi Museum",
+          "time": "8.0-8.5",
+          "cost": 0,
+          "categories": [
+            "Cultural",
+            "Family"
+          ],
+          "lat": 1.283,
+          "lng": 103.84887
+        },
+        {
+          "name": "Malay Heritage Centre Singapore",
+          "time": "13.0-16.0",
+          "cost": 6,
+          "categories": [
+            "Cultural",
+            "Family"
+          ],
+          "lat": 1.303,
+          "lng": 103.85986
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "attractions": [
+        {
+          "name": "Lasalle College of the Arts",
+          "time": "8.1-9.1",
+          "cost": 10,
+          "categories": [
+            "Cultural"
+          ],
+          "lat": 1.303,
+          "lng": 103.8516
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "attractions": [
+        {
+          "name": "Asian Civilisations Museum & Singapore Museum",
+          "time": "12.0-15.0",
+          "cost": 25,
+          "categories": [
+            "Cultural",
+            "Family"
+          ],
+          "lat": 1.287,
+          "lng": 103.851723
+        },
+        {
+          "name": "SIT Flats Singapore",
+          "time": "8.1-10.1",
+          "cost": 0,
+          "categories": [
+            "Cultural"
+          ],
+          "lat": 1.284,
+          "lng": 103.8336
+        },
+        {
+          "name": "Victoria Theatre Singapore",
+          "time": "15.0-18.0",
+          "cost": 100,
+          "categories": [
+            "Cultural",
+            "Family"
+          ],
+          "lat": 1.288,
+          "lng": 103.851641
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "attractions": [
+        {
+          "name": "Henderson Waves Bridge",
+          "time": "8.2-9.2",
+          "cost": 0,
+          "categories": [
+            "Sporty",
+            "Nature",
+            "Family",
+            "Outdoor"
+          ],
+          "lat": 1.276,
+          "lng": 103.815254
+        },
+        {
+          "name": "Marina Bay Sands Sky Park Observation Deck",
+          "time": "11.0-12.0",
+          "cost": 39,
+          "categories": [
+            "Family"
+          ],
+          "lat": 1.28265,
+          "lng": 103.8584167
+        },
+        {
+          "name": "Singapore Flyer",
+          "time": "12.0-14.0",
+          "cost": 40,
+          "categories": [
+            "Nature",
+            "Family",
+            "Outdoor"
+          ],
+          "lat": 1.289,
+          "lng": 103.863137
+        }
+      ]
+    }
+  ]
+}

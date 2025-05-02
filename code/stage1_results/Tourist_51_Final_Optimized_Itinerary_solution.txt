@@ -1,0 +1,85 @@
+Objective (negative): -0.7248
+Objective (positive): 0.7248
+Tourist ID: 51
+Budget: SGD $445
+Money spent: SGD $119
+Preferences: ['Culinary']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 261.00
+Distance (raw): 49.81 km
+Number of attractions: 9
+
+Normalized Fun: 0.3578
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.1533
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.7248
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 1.06 km (~0.04 hours)
+
+  - Raffles Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.56 km (~0.05 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Indian National Army (INA) Monument in Singapore
+    Time: 9.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 2.60 km (~0.09 hours)
+
+  - Chinese Garden Singapore
+    Time: 12.5 - 14.5
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.84 km (~0.49 hours)
+
+  - Lasalle College of the Arts
+    Time: 14.9 - 15.9
+    Cost: SGD $10
+    Categories: ['Cultural']
+    Travel: 14.10 km (~0.47 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.08 km (~0.04 hours)
+
+  - Marina Bay Sands
+    Time: 12.1 - 15.1
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.70 km (~0.06 hours)

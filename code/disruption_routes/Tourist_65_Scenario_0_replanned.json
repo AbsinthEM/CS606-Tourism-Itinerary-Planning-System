@@ -1,0 +1,121 @@
+{
+  "scenario_info": {
+    "scenario_id": 0,
+    "forecasts": {
+      "0": "rainy",
+      "1": "family_day",
+      "2": "normal",
+      "3": "early_closure"
+    }
+  },
+  "tourist": {
+    "idx": "65",
+    "preferences": [
+      "Family"
+    ],
+    "budget": 552,
+    "days": 4,
+    "touring_hours": [
+      9,
+      16
+    ],
+    "hotel_long": 103.8246707,
+    "hotel_lat": 1.251545963,
+    "money_spent": 89,
+    "locations": {
+      "0": [
+        "Changi Museum Singapore"
+      ],
+      "1": [
+        "Lau Pa Sat Singapore"
+      ],
+      "2": [
+        "Marina Bay Sands Sky Park Observation Deck",
+        "Dalhousie Obelisk",
+        "Marina Barrage"
+      ],
+      "3": [
+        "Chinatown Food Street",
+        "Fuk Tak Chi Museum",
+        "Chinese Garden Singapore"
+      ]
+    },
+    "start_times": {
+      "0": {
+        "Changi Museum Singapore": 9.688418294405112
+      },
+      "1": {
+        "Lau Pa Sat Singapore": 9.145040738663337
+      },
+      "2": {
+        "Marina Bay Sands Sky Park Observation Deck": 11.0,
+        "Dalhousie Obelisk": 9.166768389856005,
+        "Marina Barrage": 12.049196197121665
+      },
+      "3": {
+        "Chinatown Food Street": 11.0,
+        "Fuk Tak Chi Museum": 9.147081935939397,
+        "Chinese Garden Singapore": 12.47071214701699
+      }
+    }
+  },
+  "included_categories": [
+    "Sporty",
+    "Nature",
+    "Outdoor",
+    "Family",
+    "Culinary",
+    "Cultural"
+  ],
+  "unassigned": [
+    "Adventure Cove Waterpark",
+    "Esplanade Theatre",
+    "Night Safari",
+    "Universal Studios Singapore Theme Park",
+    "Kranji War Memorial Landmark in Singapore",
+    "The Civilian War Memorial park in Singapore",
+    "Indian National Army (INA) Monument in Singapore",
+    "Peranakan Museum Singapore",
+    "River Safari Singapore",
+    "Lasalle College of the Arts",
+    "Maghain Aboth Synagogue",
+    "Malay Heritage Centre Singapore",
+    "Singapore Science Centre",
+    "Singapore Flyer",
+    "SIT Flats Singapore",
+    "Fort Canning Park",
+    "Chek Jawa",
+    "Gillman Barracks",
+    "Cable Car Singapore & Mount Faber",
+    "Victoria Theatre Singapore",
+    "National Design Centre Singapore",
+    "Reflections at Bukit Chandu",
+    "Sri Veeramakaliamman Temple",
+    "Jurong Bird Park",
+    "Jamae Mosque (Masjid Chulia) Singapore",
+    "Old Supreme Court Singapore",
+    "ArtScience Museum Singapore",
+    "Armenian Church in Singapore",
+    "Contemporary Arts Center",
+    "Eurasian Heritage Centre",
+    "HortPark",
+    "MacRitchie Singapore & Singapore Nature Reserve",
+    "National Gallery Singapore",
+    "S.E.A. Aquarium",
+    "Gardens by the Bay",
+    "Marina Bay Sands",
+    "MUSEUM OF ICE CREAM SINGAPORE",
+    "Raffles Singapore",
+    "East Coast Park Singapore",
+    "Chinatown Heritage Centre",
+    "Singapore Zoo",
+    "MINT Museum of Toys Singapore & Toy Museum",
+    "Buddha Tooth Relic Temple & Museum in Singapore",
+    "The Cenotaph",
+    "CHIJMES Singapore",
+    "Pulau Ubin & Singapore Islands",
+    "Labrador Nature Reserve",
+    "Asian Civilisations Museum & Singapore Museum",
+    "Henderson Waves Bridge"
+  ]
+}

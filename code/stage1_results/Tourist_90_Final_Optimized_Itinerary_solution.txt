@@ -1,0 +1,67 @@
+Objective (negative): -0.4943
+Objective (positive): 0.4943
+Tourist ID: 90
+Budget: SGD $674
+Money spent: SGD $50
+Preferences: ['Family', 'Culinary']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 465.00
+Distance (raw): 58.35 km
+Number of attractions: 5
+
+Normalized Fun: 0.3825
+Normalized Distance: 0.9862
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1639
+Weighted distance contribution: 0.2113
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4943
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Chinatown Food Street
+    Time: 11.1 - 12.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.05 km (~0.14 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 11.4 - 14.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 11.18 km (~0.37 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Contemporary Arts Center
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 3.44 km (~0.11 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Marina Barrage
+    Time: 11.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.16 km (~0.21 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 11.1 - 15.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.35 km (~0.15 hours)

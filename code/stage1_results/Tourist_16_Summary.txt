@@ -1,0 +1,48 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 16
+Preferences: ['Culinary', 'Family']
+Days: 5
+Budget: SGD $645
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 1.0175
+Optimized Solution: 1.3656
+Improvement: 34.2%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.6292          0.9426          +49.8%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.6000          1.0000          +66.7%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    9               15             
+Total Distance (km)  48.50           81.11          
+Raw Fun Score        765.00          1146.00        
+Money Spent ($)      149             268            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Henderson Waves Bridge, East Coast Park Singapore
+  Day 3: 3 attractions - Raffles Singapore, Fuk Tak Chi Museum, Chinatown Heritage Centre
+  Day 4: 1 attractions - National Gallery Singapore
+  Day 5: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+
+Optimized Solution:
+  Day 1: 3 attractions - Dalhousie Obelisk, East Coast Park Singapore, Chinese Garden Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Lau Pa Sat Singapore, Henderson Waves Bridge
+  Day 3: 3 attractions - Victoria Theatre Singapore, Jamae Mosque (Masjid Chulia) Singapore, Chinatown Heritage Centre
+  Day 4: 3 attractions - Raffles Singapore, Fuk Tak Chi Museum, National Gallery Singapore
+  Day 5: 3 attractions - Marina Bay Sands Sky Park Observation Deck, Buddha Tooth Relic Temple & Museum in Singapore, MINT Museum of Toys Singapore & Toy Museum
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty

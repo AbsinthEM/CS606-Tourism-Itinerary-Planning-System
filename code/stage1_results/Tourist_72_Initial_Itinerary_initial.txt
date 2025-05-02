@@ -1,0 +1,58 @@
+Objective (negative): -0.4505
+Objective (positive): 0.4505
+Tourist ID: 72
+Budget: SGD $560
+Money spent: SGD $150
+Preferences: ['Culinary']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 73.85 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9301
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1993
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4505
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 11.3 - 15.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Chinatown Food Street
+    Time: 11.3 - 12.3
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 8.60 km (~0.29 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Raffles Singapore
+    Time: 11.3 - 14.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 9.61 km (~0.32 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - CHIJMES Singapore
+    Time: 11.3 - 15.3
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 9.35 km (~0.31 hours)

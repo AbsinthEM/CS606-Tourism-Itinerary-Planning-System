@@ -1,0 +1,127 @@
+Objective (negative): -0.9680
+Objective (positive): 0.9680
+Tourist ID: 12
+Budget: SGD $648
+Money spent: SGD $105
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 42
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 1125.00
+Distance (raw): 145.74 km
+Number of attractions: 15
+
+Normalized Fun: 0.9253
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - SIT Flats Singapore
+    Time: 8.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 7.46 km (~0.25 hours)
+
+  - Contemporary Arts Center
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 3.39 km (~0.11 hours)
+
+  - Old Supreme Court Singapore
+    Time: 14.3 - 16.3
+    Cost: SGD $20
+    Categories: ['Cultural']
+    Travel: 5.46 km (~0.18 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Sri Veeramakaliamman Temple
+    Time: 8.3 - 11.3
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 9.54 km (~0.32 hours)
+
+  - National Design Centre Singapore
+    Time: 11.4 - 12.4
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 1.01 km (~0.03 hours)
+
+  - Changi Museum Singapore
+    Time: 13.5 - 15.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 15.12 km (~0.50 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Maghain Aboth Synagogue
+    Time: 8.3 - 9.3
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 9.26 km (~0.31 hours)
+
+  - Lasalle College of the Arts
+    Time: 9.3 - 10.3
+    Cost: SGD $10
+    Categories: ['Cultural']
+    Travel: 0.56 km (~0.02 hours)
+
+  - Chinatown Heritage Centre
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.26 km (~0.08 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.56 km (~0.05 hours)
+
+  - Fort Canning Park
+    Time: 13.0 - 16.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 0.84 km (~0.03 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 9.48 km (~0.32 hours)
+
+  - Gillman Barracks
+    Time: 10.0 - 14.0
+    Cost: SGD $20
+    Categories: ['Cultural']
+    Travel: 5.41 km (~0.18 hours)
+
+  - Armenian Church in Singapore
+    Time: 15.5 - 16.5
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 5.28 km (~0.18 hours)

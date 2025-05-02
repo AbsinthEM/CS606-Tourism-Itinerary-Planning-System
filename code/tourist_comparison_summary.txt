@@ -1,0 +1,18 @@
+
+        Comparison Summary Across 100 Tourist Profiles:
+        -----------------------------------------------------
+        Average Initial Solution Objective (positive): 0.7922
+        Average Optimized Solution Objective (positive): 0.8937
+        Overall Improvement: 12.81%
+
+        Average Normalized Components for Initial Solution:
+        Fun:         0.3283
+        Distance:    0.9264
+        Attractions: 0.3606
+
+        Average Normalized Components for Optimized Solution:
+        Fun:         0.4300
+        Distance:    0.9509
+        Attractions: 0.5163
+        -----------------------------------------------------
+        

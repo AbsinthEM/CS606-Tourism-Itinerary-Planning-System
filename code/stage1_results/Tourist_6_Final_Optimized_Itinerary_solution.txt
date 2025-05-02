@@ -1,0 +1,85 @@
+Objective (negative): -0.9680
+Objective (positive): 0.9680
+Tourist ID: 6
+Budget: SGD $455
+Money spent: SGD $122
+Preferences: ['Family']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 675.00
+Distance (raw): 48.36 km
+Number of attractions: 9
+
+Normalized Fun: 0.9253
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 9.1 - 10.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+  - Singapore Flyer
+    Time: 10.3 - 12.3
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.52 km (~0.18 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 16.3 - 18.3
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.25 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 12.1 - 13.1
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 1.63 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Labrador Nature Reserve
+    Time: 9.2 - 11.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.77 km (~0.19 hours)
+
+  - Eurasian Heritage Centre
+    Time: 12.2 - 13.2
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 11.89 km (~0.40 hours)
+
+  - Marina Barrage
+    Time: 13.4 - 16.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.47 km (~0.15 hours)

@@ -1,0 +1,64 @@
+Objective (negative): -1.1663
+Objective (positive): 1.1663
+Tourist ID: 10
+Budget: SGD $352
+Money spent: SGD $30
+Preferences: ['Nature', 'Sporty']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 675.00
+Distance (raw): 40.77 km
+Number of attractions: 6
+
+Normalized Fun: 1.3880
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.5949
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 1.1663
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - HortPark
+    Time: 9.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.12 km (~0.14 hours)
+
+  - Labrador Nature Reserve
+    Time: 12.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.47 km (~0.05 hours)
+
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 14.5 - 17.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 9.07 km (~0.30 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 9.1 - 10.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.91 km (~0.10 hours)
+
+  - Cable Car Singapore & Mount Faber
+    Time: 10.1 - 12.1
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 0.71 km (~0.02 hours)
+
+  - Marina Barrage
+    Time: 13.4 - 16.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.93 km (~0.20 hours)

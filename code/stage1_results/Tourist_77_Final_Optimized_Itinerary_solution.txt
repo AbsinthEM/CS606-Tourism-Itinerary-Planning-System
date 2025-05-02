@@ -1,0 +1,58 @@
+Objective (negative): -0.4600
+Objective (positive): 0.4600
+Tourist ID: 77
+Budget: SGD $544
+Money spent: SGD $57
+Preferences: ['Cultural']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 52.58 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9740
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2087
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4600
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Gardens by the Bay
+    Time: 11.4 - 15.4
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.79 km (~0.36 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Gillman Barracks
+    Time: 11.2 - 15.2
+    Cost: SGD $20
+    Categories: ['Cultural']
+    Travel: 4.58 km (~0.15 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Reflections at Bukit Chandu
+    Time: 11.1 - 15.1
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 3.47 km (~0.12 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - SIT Flats Singapore
+    Time: 11.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 7.46 km (~0.25 hours)

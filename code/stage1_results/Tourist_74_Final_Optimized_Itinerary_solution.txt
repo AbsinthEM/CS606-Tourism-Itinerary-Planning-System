@@ -1,0 +1,40 @@
+Objective (negative): -0.4655
+Objective (positive): 0.4655
+Tourist ID: 74
+Budget: SGD $355
+Money spent: SGD $65
+Preferences: ['Shopping']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 150.00
+Distance (raw): 4.87 km
+Number of attractions: 2
+
+Normalized Fun: 0.3084
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4655
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 10.0 - 12.0
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.20 km (~0.04 hours)

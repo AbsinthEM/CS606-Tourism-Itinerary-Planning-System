@@ -1,0 +1,40 @@
+Objective (negative): -0.5052
+Objective (positive): 0.5052
+Tourist ID: 84
+Budget: SGD $346
+Money spent: SGD $50
+Preferences: ['Cultural', 'Shopping', 'Sporty']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 195.00
+Distance (raw): 4.37 km
+Number of attractions: 2
+
+Normalized Fun: 0.4010
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1718
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5052
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - The Cenotaph
+    Time: 10.0 - 11.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 0.95 km (~0.03 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)

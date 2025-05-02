@@ -1,0 +1,48 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 1
+Preferences: ['Shopping', 'Cultural']
+Days: 5
+Budget: SGD $661
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.9953
+Optimized Solution: 1.3774
+Improvement: 38.4%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.5922          0.9623          +62.5%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.6000          1.0000          +66.7%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    9               15             
+Total Distance (km)  40.08           53.83          
+Raw Fun Score        720.00          1170.00        
+Money Spent ($)      165             232            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 3 attractions - Raffles Singapore, Dalhousie Obelisk, National Gallery Singapore
+  Day 2: 1 attractions - Gardens by the Bay
+  Day 3: 3 attractions - MUSEUM OF ICE CREAM SINGAPORE, Fuk Tak Chi Museum, Chinatown Heritage Centre
+  Day 4: 1 attractions - MINT Museum of Toys Singapore & Toy Museum
+  Day 5: 1 attractions - ArtScience Museum Singapore
+
+Optimized Solution:
+  Day 1: 3 attractions - MUSEUM OF ICE CREAM SINGAPORE, Fuk Tak Chi Museum, Gardens by the Bay
+  Day 2: 3 attractions - Chinatown Food Street, The Cenotaph, Indian National Army (INA) Monument in Singapore
+  Day 3: 3 attractions - Old Supreme Court Singapore, National Design Centre Singapore, MINT Museum of Toys Singapore & Toy Museum
+  Day 4: 3 attractions - Lasalle College of the Arts, Asian Civilisations Museum & Singapore Museum, Buddha Tooth Relic Temple & Museum in Singapore
+  Day 5: 3 attractions - Raffles Singapore, Gillman Barracks, Maghain Aboth Synagogue
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping

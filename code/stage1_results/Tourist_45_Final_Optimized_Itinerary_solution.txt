@@ -1,0 +1,49 @@
+Objective (negative): -0.4640
+Objective (positive): 0.4640
+Tourist ID: 45
+Budget: SGD $471
+Money spent: SGD $15
+Preferences: ['Family']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 32.65 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9927
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2127
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4640
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 12.2 - 14.2
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 5.95 km (~0.20 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Chinatown Heritage Centre
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.22 km (~0.14 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Marina Barrage
+    Time: 12.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.16 km (~0.21 hours)

@@ -1,0 +1,50 @@
+ENHANCED TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+
+OVERALL METHOD PERFORMANCE
+----------------------------------------------------------------------
+Method          Avg Objective   Min        Max        Std Dev   
+----------------------------------------------------------------------
+initial         0.7922          0.5882     1.1647     0.0985    
+optimized       0.8937          0.5921     1.6328     0.2172    
+
+Overall Improvement: 12.81%
+
+
+PERFORMANCE BY TOURIST PREFERENCE
+----------------------------------------------------------------------
+Preference                Initial         Optimized       Improvement    
+----------------------------------------------------------------------
+Cultural/Shopping         1.1054          1.4005          26.7%          
+Culinary                  0.8031          0.8666          7.9%           
+Nature/Sporty             0.8458          0.9602          13.5%          
+Family                    0.7571          0.9296          22.8%          
+Shopping                  0.6752          0.6964          3.1%           
+Cultural                  0.7934          0.9134          15.1%          
+Culinary/Family           1.0092          1.1097          10.0%          
+Nature/Shopping           0.7486          0.8749          16.9%          
+Cultural/Family/Sporty    0.8650          0.8650          0.0%           
+Culinary/Cultural         0.9124          0.9124          0.0%           
+Shopping/Sporty           0.7680          1.2816          66.9%          
+Family/Nature             0.8756          0.8756          0.0%           
+Cultural/Shopping/Sporty  0.8757          0.8757          0.0%           
+Family/Nature/Sporty      1.0541          1.0541          0.0%           
+Culinary/Cultural/Nature/Sporty 0.9039          0.9039          0.0%           
+Culinary/Shopping         0.8549          0.8549          0.0%           
+Culinary/Nature           0.8936          1.3062          46.2%          
+
+NORMALIZED COMPONENT ANALYSIS
+----------------------------------------------------------------------
+Component       Initial Avg  Optimized Avg   Change    
+----------------------------------------------------------------------
+Fun             0.3283       0.4300          +31.0%
+Distance        0.9264       0.9509          +2.6%
+Attractions     0.3606       0.5163          +43.2%
+
+Average Attractions Per Tourist:
+Initial: 3.9, Optimized: 5.5 (+41.1%)
+
+Average Money Spent Per Tourist:
+Initial: $80.7, Optimized: $92.0 (+14.1%)
+
+Summary generated for 100 tourists on: 2025-04-05 21:40:32

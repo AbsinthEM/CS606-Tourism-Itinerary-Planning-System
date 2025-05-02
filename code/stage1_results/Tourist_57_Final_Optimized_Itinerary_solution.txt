@@ -1,0 +1,49 @@
+Objective (negative): -0.4606
+Objective (positive): 0.4606
+Tourist ID: 57
+Budget: SGD $441
+Money spent: SGD $14
+Preferences: ['Family']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 38.26 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.9773
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2094
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4606
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Labrador Nature Reserve
+    Time: 11.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.07 km (~0.17 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Contemporary Arts Center
+    Time: 11.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.72 km (~0.16 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - National Gallery Singapore
+    Time: 11.3 - 14.3
+    Cost: SGD $14
+    Categories: ['Cultural', 'Family']
+    Travel: 9.34 km (~0.31 hours)

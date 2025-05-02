@@ -1,0 +1,52 @@
+Objective (negative): -0.6560
+Objective (positive): 0.6560
+Tourist ID: 42
+Budget: SGD $341
+Money spent: SGD $50
+Preferences: ['Shopping']
+Days: 2
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 231.00
+Distance (raw): 31.33 km
+Number of attractions: 4
+
+Normalized Fun: 0.4750
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.2036
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.6560
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 10.2 - 14.2
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 4.98 km (~0.17 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 10.3 - 12.3
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 9.65 km (~0.32 hours)
+
+  - Marina Bay Sands
+    Time: 12.4 - 15.4
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.43 km (~0.05 hours)
+
+  - Dalhousie Obelisk
+    Time: 18.4 - 18.9
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 0.81 km (~0.03 hours)

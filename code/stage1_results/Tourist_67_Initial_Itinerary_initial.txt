@@ -1,0 +1,73 @@
+Objective (negative): -0.6337
+Objective (positive): 0.6337
+Tourist ID: 67
+Budget: SGD $473
+Money spent: SGD $174
+Preferences: ['Culinary']
+Days: 3
+Unassigned attractions: 50
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 249.00
+Distance (raw): 77.90 km
+Number of attractions: 7
+
+Normalized Fun: 0.3413
+Normalized Distance: 0.9782
+Normalized #Attractions: 0.7778
+
+Weighted fun contribution: 0.1463
+Weighted distance contribution: 0.2096
+Weighted attractions contribution: 0.2778
+
+Weighted Objective (positive): 0.6337
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.3 - 12.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Lasalle College of the Arts
+    Time: 8.3 - 9.3
+    Cost: SGD $10
+    Categories: ['Cultural']
+    Travel: 9.37 km (~0.31 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 2.43 km (~0.08 hours)
+
+  - Singapore Zoo
+    Time: 12.5 - 17.5
+    Cost: SGD $49
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.64 km (~0.49 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.56 km (~0.05 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 13.0 - 15.0
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 0.04 km (~0.00 hours)

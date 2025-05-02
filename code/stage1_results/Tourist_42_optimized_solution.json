@@ -1,0 +1,99 @@
+{
+  "tourist": {
+    "idx": "42",
+    "preferences": [
+      "Shopping"
+    ],
+    "budget": 341,
+    "days": 2,
+    "touring_hours": [
+      10,
+      20
+    ],
+    "hotel_long": 103.7675743,
+    "hotel_lat": 1.295986515,
+    "money_spent": 50,
+    "locations": {
+      "0": [
+        "MUSEUM OF ICE CREAM SINGAPORE"
+      ],
+      "1": [
+        "Dalhousie Obelisk",
+        "MINT Museum of Toys Singapore & Toy Museum",
+        "Marina Bay Sands"
+      ]
+    },
+    "start_times": {
+      "0": {
+        "MUSEUM OF ICE CREAM SINGAPORE": 10.165995232057195
+      },
+      "1": {
+        "Dalhousie Obelisk": 18.361100827394843,
+        "MINT Museum of Toys Singapore & Toy Museum": 10.321699869638827,
+        "Marina Bay Sands": 12.36933222466075
+      }
+    }
+  },
+  "included_categories": [
+    "Outdoor",
+    "Shopping",
+    "Culinary",
+    "Cultural",
+    "Family"
+  ],
+  "unassigned": [
+    "Adventure Cove Waterpark",
+    "Esplanade Theatre",
+    "Night Safari",
+    "Universal Studios Singapore Theme Park",
+    "Indian National Army (INA) Monument in Singapore",
+    "The Cenotaph",
+    "Fort Canning Park",
+    "Chinese Garden Singapore",
+    "Singapore Flyer",
+    "Sri Veeramakaliamman Temple",
+    "Peranakan Museum Singapore",
+    "Lasalle College of the Arts",
+    "River Safari Singapore",
+    "S.E.A. Aquarium",
+    "National Gallery Singapore",
+    "Henderson Waves Bridge",
+    "Malay Heritage Centre Singapore",
+    "Singapore Science Centre",
+    "Lau Pa Sat Singapore",
+    "Chinatown Food Street",
+    "MacRitchie Singapore & Singapore Nature Reserve",
+    "Reflections at Bukit Chandu",
+    "Maghain Aboth Synagogue",
+    "Marina Barrage",
+    "Chek Jawa",
+    "Cable Car Singapore & Mount Faber",
+    "East Coast Park Singapore",
+    "Gillman Barracks",
+    "Old Supreme Court Singapore",
+    "ArtScience Museum Singapore",
+    "The Civilian War Memorial park in Singapore",
+    "Fuk Tak Chi Museum",
+    "Buddha Tooth Relic Temple & Museum in Singapore",
+    "HortPark",
+    "Kranji War Memorial Landmark in Singapore",
+    "CHIJMES Singapore",
+    "Eurasian Heritage Centre",
+    "Armenian Church in Singapore",
+    "Singapore Zoo",
+    "Victoria Theatre Singapore",
+    "Pulau Ubin & Singapore Islands",
+    "Contemporary Arts Center",
+    "SIT Flats Singapore",
+    "National Design Centre Singapore",
+    "Gardens by the Bay",
+    "Chinatown Heritage Centre",
+    "Changi Museum Singapore",
+    "Labrador Nature Reserve",
+    "Marina Bay Sands Sky Park Observation Deck",
+    "Jurong Bird Park",
+    "Asian Civilisations Museum & Singapore Museum",
+    "Jamae Mosque (Masjid Chulia) Singapore",
+    "Raffles Singapore"
+  ]
+}

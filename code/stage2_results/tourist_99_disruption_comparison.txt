@@ -1,0 +1,66 @@
+DISRUPTION HANDLING COMPARISON (Objective Values)
+============================================================
+Tourist ID: 99
+Preferences: ['Culinary', 'Nature']
+Days: 3
+Budget: SGD $470
+
+STAGE 1: PLANNING METHODS (No Disruptions)
+------------------------------------------------------------
+Initial Heuristic Objective: 0.5251
+ALNS Optimized Objective: 0.8444
+Improvement: 60.8%
+
+STAGE 2: Disruption Handling Comparison (Objectives)
+------------------------------------------------------------------------------------------
+
+Method: Initial
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           0.5251      Day 1: Early_closure
+1           -4.5742     Day 1: Rainy
+2           -4.5847     Day 1: Early_closure, Day 2: Heat_wave
+
+Method: Optimized
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           0.8444      Day 1: Early_closure
+1           -4.3173     Day 1: Rainy
+2           0.7457      Day 1: Early_closure, Day 2: Heat_wave
+
+Method: Quick Repair
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           0.4590      Day 1: Early_closure
+1           0.5519      Day 1: Rainy
+2           0.5519      Day 1: Early_closure, Day 2: Heat_wave
+
+Method: ALNS Replanning
+Scenario    Objective      Stability    Proximity    Disruptions
+------------------------------------------------------------------------------------------
+0           0.9696      1.0000      1.0000      Day 1: Early_closure
+1           0.7022      0.6667      0.7251      Day 1: Rainy
+2           0.7291      0.6667      0.9812      Day 1: Early_closure, Day 2: Heat_wave
+
+============================================================
+OVERALL AVERAGE OBJECTIVE VALUES
+============================================================
+Method             Avg Objective   Avg Attractions
+----------------------------------------------------------------------
+Initial            -2.8779         2.3            
+Optimized          -0.9091         7.3            
+Quick Repair       0.5210          4.3            
+ALNS Replanning    0.8003          7.0            
+
+REPLANNING METHOD COMPARISON:
+- ALNS Replanning achieves better objective values: 53.6%
+- ALNS Replanning has 53.2% less disruption impact
+- ALNS Replanning includes 61.5% more attractions
+
+Replanned Routes Information
+------------------------------------------------------------
+Detailed replanned routes have been saved to the 'disruption_routes' directory:
+Files:
+  - Tourist_99_Scenario_X_replanned.json (ALNS Replanning)
+  - Tourist_99_Scenario_X_quickrepair.json (Quick Repair)
+  where X is the scenario number

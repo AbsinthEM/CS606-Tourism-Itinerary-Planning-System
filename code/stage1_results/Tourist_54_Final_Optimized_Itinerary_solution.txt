@@ -1,0 +1,94 @@
+Objective (negative): -0.6904
+Objective (positive): 0.6904
+Tourist ID: 54
+Budget: SGD $564
+Money spent: SGD $155
+Preferences: ['Culinary']
+Days: 4
+Unassigned attractions: 47
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 405.00
+Distance (raw): 18.03 km
+Number of attractions: 10
+
+Normalized Fun: 0.4164
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.8333
+
+Weighted fun contribution: 0.1785
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2976
+
+Weighted Objective (positive): 0.6904
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Maghain Aboth Synagogue
+    Time: 10.1 - 11.1
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 1.65 km (~0.05 hours)
+
+  - Raffles Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 0.42 km (~0.01 hours)
+
+  - Armenian Church in Singapore
+    Time: 15.1 - 16.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 0.59 km (~0.02 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - The Civilian War Memorial park in Singapore
+    Time: 9.0 - 11.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 0.98 km (~0.03 hours)
+
+  - Marina Bay Sands
+    Time: 12.1 - 15.1
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.11 km (~0.04 hours)
+
+  - Jamae Mosque (Masjid Chulia) Singapore
+    Time: 15.1 - 16.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 1.50 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.0 - 9.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 1.11 km (~0.04 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.08 km (~0.04 hours)
+
+  - CHIJMES Singapore
+    Time: 12.1 - 16.1
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 1.64 km (~0.05 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 9.1 - 13.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.56 km (~0.05 hours)

@@ -1,0 +1,67 @@
+Objective (negative): -0.4242
+Objective (positive): 0.4242
+Tourist ID: 78
+Budget: SGD $672
+Money spent: SGD $132
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 375.00
+Distance (raw): 173.22 km
+Number of attractions: 5
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8070
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1729
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4242
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 12.6 - 16.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 17.75 km (~0.59 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Gardens by the Bay
+    Time: 12.5 - 16.5
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 16.42 km (~0.55 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Chinatown Food Street
+    Time: 12.6 - 13.6
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 18.32 km (~0.61 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Fort Canning Park
+    Time: 12.6 - 15.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 17.47 km (~0.58 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Raffles Singapore
+    Time: 12.6 - 15.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 16.65 km (~0.56 hours)

@@ -1,0 +1,64 @@
+Objective (negative): -0.7856
+Objective (positive): 0.7856
+Tourist ID: 79
+Budget: SGD $365
+Money spent: SGD $85
+Preferences: ['Shopping']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 243.00
+Distance (raw): 31.59 km
+Number of attractions: 6
+
+Normalized Fun: 0.4997
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.2141
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.7856
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 9.5 - 11.5
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.20 km (~0.04 hours)
+
+  - Chinatown Food Street
+    Time: 13.1 - 14.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.90 km (~0.06 hours)
+
+  - Labrador Nature Reserve
+    Time: 15.7 - 17.7
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.00 km (~0.17 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)
+
+  - Marina Bay Sands
+    Time: 14.1 - 17.1
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.44 km (~0.05 hours)
+
+  - HortPark
+    Time: 17.4 - 19.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.61 km (~0.22 hours)

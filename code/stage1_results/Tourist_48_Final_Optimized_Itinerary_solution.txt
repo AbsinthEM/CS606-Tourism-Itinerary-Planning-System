@@ -1,0 +1,40 @@
+Objective (negative): -0.4244
+Objective (positive): 0.4244
+Tourist ID: 48
+Budget: SGD $348
+Money spent: SGD $30
+Preferences: ['Culinary']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 150.00
+Distance (raw): 69.00 km
+Number of attractions: 2
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8081
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1732
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4244
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 10.6 - 14.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 17.75 km (~0.59 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Bay Sands
+    Time: 10.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 16.75 km (~0.56 hours)

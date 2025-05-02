@@ -1,0 +1,34 @@
+ENHANCED TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+
+OVERALL METHOD PERFORMANCE
+----------------------------------------------------------------------
+Method          Avg Objective   Min        Max        Std Dev   
+----------------------------------------------------------------------
+initial         0.4573          0.4573     0.4573     0.0000    
+optimized       0.6032          0.6032     0.6032     0.0000    
+
+Overall Improvement: 31.88%
+
+
+PERFORMANCE BY TOURIST PREFERENCE
+----------------------------------------------------------------------
+Preference                Initial         Optimized       Improvement    
+----------------------------------------------------------------------
+ 'Sporty'/'Nature'        0.4573          0.6032          31.9%          
+
+NORMALIZED COMPONENT ANALYSIS
+----------------------------------------------------------------------
+Component       Initial Avg  Optimized Avg   Change    
+----------------------------------------------------------------------
+Fun             0.0494       0.0740          +50.0%
+Distance        0.9245       1.0000          +8.2%
+Attractions     0.6667       1.0000          +50.0%
+
+Average Attractions Per Tourist:
+Initial: 10.0, Optimized: 15.0 (+50.0%)
+
+Average Money Spent Per Tourist:
+Initial: $78.0, Optimized: $319.0 (+309.0%)
+
+Summary generated for 1 tourists on: 2025-04-06 23:04:17

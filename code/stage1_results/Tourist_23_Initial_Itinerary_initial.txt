@@ -1,0 +1,67 @@
+Objective (negative): -0.5160
+Objective (positive): 0.5160
+Tourist ID: 23
+Budget: SGD $649
+Money spent: SGD $70
+Preferences: ['Cultural', 'Sporty', 'Family']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 600.00
+Distance (raw): 135.82 km
+Number of attractions: 5
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.8656
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.1855
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5160
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 11.2 - 16.2
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.30 km (~0.24 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 11.6 - 15.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 17.75 km (~0.59 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Marina Barrage
+    Time: 11.5 - 14.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 15.72 km (~0.52 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Gardens by the Bay
+    Time: 11.5 - 15.5
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 16.42 km (~0.55 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 11.4 - 14.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.73 km (~0.36 hours)

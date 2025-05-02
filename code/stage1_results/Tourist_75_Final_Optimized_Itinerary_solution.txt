@@ -1,0 +1,94 @@
+Objective (negative): -0.8454
+Objective (positive): 0.8454
+Tourist ID: 75
+Budget: SGD $550
+Money spent: SGD $63
+Preferences: ['Nature', 'Sporty']
+Days: 4
+Unassigned attractions: 47
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 813.00
+Distance (raw): 156.00 km
+Number of attractions: 10
+
+Normalized Fun: 0.8359
+Normalized Distance: 0.8844
+Normalized #Attractions: 0.8333
+
+Weighted fun contribution: 0.3582
+Weighted distance contribution: 0.1895
+Weighted attractions contribution: 0.2976
+
+Weighted Objective (positive): 0.8454
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 9.7 - 11.7
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 20.65 km (~0.69 hours)
+
+  - Jurong Bird Park
+    Time: 12.7 - 16.7
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - Henderson Waves Bridge
+    Time: 17.1 - 18.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 13.01 km (~0.43 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - HortPark
+    Time: 9.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.12 km (~0.14 hours)
+
+  - Labrador Nature Reserve
+    Time: 12.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.47 km (~0.05 hours)
+
+  - Marina Barrage
+    Time: 14.5 - 17.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.92 km (~0.26 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 9.8 - 14.8
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 23.46 km (~0.78 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.41 km (~0.15 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 12.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.34 km (~0.24 hours)

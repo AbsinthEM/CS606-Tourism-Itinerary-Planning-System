@@ -1,0 +1,85 @@
+Objective (negative): -0.7962
+Objective (positive): 0.7962
+Tourist ID: 73
+Budget: SGD $449
+Money spent: SGD $182
+Preferences: ['Culinary']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 399.00
+Distance (raw): 107.18 km
+Number of attractions: 9
+
+Normalized Fun: 0.5470
+Normalized Distance: 0.9551
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.2344
+Weighted distance contribution: 0.2047
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.7962
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Jamae Mosque (Masjid Chulia) Singapore
+    Time: 8.6 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 18.13 km (~0.60 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.20 km (~0.01 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 12.0 - 16.0
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.76 km (~0.03 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.6 - 9.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 17.80 km (~0.59 hours)
+
+  - Marina Bay Sands
+    Time: 12.0 - 15.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.13 km (~0.04 hours)
+
+  - Gardens by the Bay
+    Time: 15.0 - 19.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 0.56 km (~0.02 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - CHIJMES Singapore
+    Time: 8.6 - 12.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 16.94 km (~0.56 hours)
+
+  - Raffles Singapore
+    Time: 12.6 - 15.6
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 0.28 km (~0.01 hours)
+
+  - East Coast Park Singapore
+    Time: 17.3 - 20.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.49 km (~0.22 hours)

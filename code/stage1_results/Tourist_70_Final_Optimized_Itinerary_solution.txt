@@ -1,0 +1,58 @@
+Objective (negative): -0.8069
+Objective (positive): 0.8069
+Tourist ID: 70
+Budget: SGD $370
+Money spent: SGD $50
+Preferences: ['Family']
+Days: 2
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 375.00
+Distance (raw): 90.14 km
+Number of attractions: 5
+
+Normalized Fun: 0.7711
+Normalized Distance: 0.8342
+Normalized #Attractions: 0.8333
+
+Weighted fun contribution: 0.3305
+Weighted distance contribution: 0.1788
+Weighted attractions contribution: 0.2976
+
+Weighted Objective (positive): 0.8069
+
+Day 1 forecast: Normal Day
+Day 1 has 2 attractions:
+  - Changi Museum Singapore
+    Time: 10.7 - 12.7
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 20.65 km (~0.69 hours)
+
+  - Jurong Bird Park
+    Time: 13.7 - 17.7
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 10.2 - 12.2
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 5.95 km (~0.20 hours)
+
+  - East Coast Park Singapore
+    Time: 13.0 - 16.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 6.45 km (~0.21 hours)
+
+  - Dalhousie Obelisk
+    Time: 18.2 - 18.7
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 6.83 km (~0.23 hours)

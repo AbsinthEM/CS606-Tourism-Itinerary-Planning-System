@@ -1,0 +1,82 @@
+Objective (negative): -0.5808
+Objective (positive): 0.5808
+Tourist ID: 30
+Budget: SGD $575
+Money spent: SGD $135
+Preferences: ['Shopping']
+Days: 4
+Unassigned attractions: 49
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 324.00
+Distance (raw): 112.38 km
+Number of attractions: 8
+
+Normalized Fun: 0.3331
+Normalized Distance: 0.9331
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.1428
+Weighted distance contribution: 0.2000
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.5808
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 10.7 - 12.7
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 20.65 km (~0.69 hours)
+
+  - Jurong Bird Park
+    Time: 13.7 - 17.7
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - National Design Centre Singapore
+    Time: 18.2 - 19.2
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 16.50 km (~0.55 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.2 - 13.2
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 5.92 km (~0.20 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 10.2 - 12.2
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 5.95 km (~0.20 hours)
+
+  - Marina Bay Sands
+    Time: 12.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.43 km (~0.05 hours)
+
+  - Henderson Waves Bridge
+    Time: 18.1 - 19.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.94 km (~0.16 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 10.2 - 14.2
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 5.93 km (~0.20 hours)

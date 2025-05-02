@@ -1,0 +1,106 @@
+Objective (negative): -0.9680
+Objective (positive): 0.9680
+Tourist ID: 76
+Budget: SGD $550
+Money spent: SGD $184
+Preferences: ['Cultural']
+Days: 4
+Unassigned attractions: 45
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 900.00
+Distance (raw): 33.63 km
+Number of attractions: 12
+
+Normalized Fun: 0.9253
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Jamae Mosque (Masjid Chulia) Singapore
+    Time: 8.1 - 9.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 2.65 km (~0.09 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.73 km (~0.06 hours)
+
+  - Contemporary Arts Center
+    Time: 13.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 5.98 km (~0.20 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Victoria Theatre Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $100
+    Categories: ['Cultural', 'Family']
+    Travel: 0.14 km (~0.00 hours)
+
+  - Indian National Army (INA) Monument in Singapore
+    Time: 13.0 - 15.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 0.36 km (~0.01 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - The Cenotaph
+    Time: 8.1 - 9.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 2.57 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.39 km (~0.05 hours)
+
+  - Chinatown Heritage Centre
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.17 km (~0.01 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - National Gallery Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $14
+    Categories: ['Cultural', 'Family']
+    Travel: 0.83 km (~0.03 hours)
+
+  - Armenian Church in Singapore
+    Time: 13.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 0.38 km (~0.01 hours)

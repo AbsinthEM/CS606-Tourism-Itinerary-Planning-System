@@ -1,0 +1,67 @@
+Objective (negative): -0.5443
+Objective (positive): 0.5443
+Tourist ID: 50
+Budget: SGD $660
+Money spent: SGD $116
+Preferences: ['Nature', 'Family']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 600.00
+Distance (raw): 51.38 km
+Number of attractions: 5
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.9977
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.2138
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5443
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Gardens by the Bay
+    Time: 12.2 - 16.2
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.50 km (~0.18 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - S.E.A. Aquarium
+    Time: 12.0 - 15.0
+    Cost: SGD $44
+    Categories: ['Nature', 'Family']
+    Travel: 0.84 km (~0.03 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 12.3 - 15.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.39 km (~0.35 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Labrador Nature Reserve
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.99 km (~0.10 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Singapore Flyer
+    Time: 12.2 - 14.2
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.97 km (~0.20 hours)

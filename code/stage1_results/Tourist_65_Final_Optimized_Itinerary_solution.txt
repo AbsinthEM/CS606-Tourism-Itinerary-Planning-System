@@ -1,0 +1,94 @@
+Objective (negative): -0.8424
+Objective (positive): 0.8424
+Tourist ID: 65
+Budget: SGD $552
+Money spent: SGD $141
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 47
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 750.00
+Distance (raw): 81.52 km
+Number of attractions: 10
+
+Normalized Fun: 0.7711
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.8333
+
+Weighted fun contribution: 0.3305
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2976
+
+Weighted Objective (positive): 0.8424
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.41 km (~0.15 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - Labrador Nature Reserve
+    Time: 12.2 - 14.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.00 km (~0.17 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 9.1 - 13.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 4.35 km (~0.15 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Eurasian Heritage Centre
+    Time: 9.5 - 10.5
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 10.55 km (~0.35 hours)
+
+  - Dalhousie Obelisk
+    Time: 10.7 - 11.2
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 5.82 km (~0.19 hours)
+
+  - S.E.A. Aquarium
+    Time: 12.1 - 15.1
+    Cost: SGD $44
+    Categories: ['Nature', 'Family']
+    Travel: 4.95 km (~0.16 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 9.1 - 10.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 2.91 km (~0.10 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 4.85 km (~0.16 hours)
+
+  - Chinese Garden Singapore
+    Time: 12.5 - 14.5
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 15.59 km (~0.52 hours)

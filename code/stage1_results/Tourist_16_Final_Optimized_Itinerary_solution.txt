@@ -1,0 +1,127 @@
+Objective (negative): -0.9997
+Objective (positive): 0.9997
+Tourist ID: 16
+Budget: SGD $645
+Money spent: SGD $270
+Preferences: ['Culinary', 'Family']
+Days: 5
+Unassigned attractions: 42
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 1215.00
+Distance (raw): 113.76 km
+Number of attractions: 15
+
+Normalized Fun: 0.9994
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.4283
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9997
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Cable Car Singapore & Mount Faber
+    Time: 9.0 - 11.0
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 4.22 km (~0.14 hours)
+
+  - Chinatown Food Street
+    Time: 13.1 - 14.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.02 km (~0.10 hours)
+
+  - Peranakan Museum Singapore
+    Time: 14.1 - 18.1
+    Cost: SGD $12
+    Categories: ['Cultural', 'Family']
+    Travel: 1.41 km (~0.05 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - HortPark
+    Time: 8.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.98 km (~0.17 hours)
+
+  - Eurasian Heritage Centre
+    Time: 10.6 - 11.6
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 11.61 km (~0.39 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 12.7 - 16.7
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 6.33 km (~0.21 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - MUSEUM OF ICE CREAM SINGAPORE
+    Time: 10.0 - 14.0
+    Cost: SGD $35
+    Categories: ['Family', 'Shopping']
+    Travel: 4.86 km (~0.16 hours)
+
+  - Chek Jawa
+    Time: 14.7 - 17.7
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 20.52 km (~0.68 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 8.7 - 9.7
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 11.0 - 12.0
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 4.85 km (~0.16 hours)
+
+  - Malay Heritage Centre Singapore
+    Time: 12.1 - 15.1
+    Cost: SGD $6
+    Categories: ['Cultural', 'Family']
+    Travel: 2.27 km (~0.08 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Labrador Nature Reserve
+    Time: 8.2 - 10.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.77 km (~0.19 hours)
+
+  - Raffles Singapore
+    Time: 10.4 - 13.4
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 6.68 km (~0.22 hours)
+
+  - Singapore Flyer
+    Time: 14.4 - 16.4
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 1.28 km (~0.04 hours)

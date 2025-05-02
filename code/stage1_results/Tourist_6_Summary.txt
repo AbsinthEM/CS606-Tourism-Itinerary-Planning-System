@@ -1,0 +1,44 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 6
+Preferences: ['Family']
+Days: 3
+Budget: SGD $455
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.6956
+Optimized Solution: 1.3235
+Improvement: 90.3%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.9253          +200.0%
+Distance             0.9429          0.9208          -2.3%
+Attractions          0.3333          1.0000          +200.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    3               9              
+Total Distance (km)  50.72           118.76         
+Raw Fun Score        225.00          675.00         
+Money Spent ($)      22              74             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+  Day 3: 1 attractions - National Gallery Singapore
+
+Optimized Solution:
+  Day 1: 3 attractions - Dalhousie Obelisk, Labrador Nature Reserve, Chek Jawa
+  Day 2: 3 attractions - Jurong Bird Park, Chinese Garden Singapore, Henderson Waves Bridge
+  Day 3: 3 attractions - Malay Heritage Centre Singapore, Eurasian Heritage Centre, Asian Civilisations Museum & Singapore Museum
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Cultural, Family, Nature, Outdoor, Sporty
+Optimized Solution: Cultural, Family, Nature, Outdoor, Sporty

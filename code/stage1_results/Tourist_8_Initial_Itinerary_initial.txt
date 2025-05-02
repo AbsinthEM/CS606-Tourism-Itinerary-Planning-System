@@ -1,0 +1,40 @@
+Objective (negative): -0.4403
+Objective (positive): 0.4403
+Tourist ID: 8
+Budget: SGD $348
+Money spent: SGD $38
+Preferences: ['Family']
+Days: 2
+Unassigned attractions: 55
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 150.00
+Distance (raw): 50.10 km
+Number of attractions: 2
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8821
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1890
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4403
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 9.2 - 14.2
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.30 km (~0.24 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 9.6 - 13.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 17.75 km (~0.59 hours)

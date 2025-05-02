@@ -1,0 +1,103 @@
+Objective (negative): -0.8294
+Objective (positive): 0.8294
+Tourist ID: 71
+Budget: SGD $674
+Money spent: SGD $80
+Preferences: ['Nature', 'Sporty']
+Days: 5
+Unassigned attractions: 46
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 1002.00
+Distance (raw): 99.91 km
+Number of attractions: 11
+
+Normalized Fun: 0.8242
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.7333
+
+Weighted fun contribution: 0.3532
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2619
+
+Weighted Objective (positive): 0.8294
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 9.6 - 14.6
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 18.28 km (~0.61 hours)
+
+  - Singapore Flyer
+    Time: 15.2 - 17.2
+    Cost: SGD $40
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 17.53 km (~0.58 hours)
+
+  - Henderson Waves Bridge
+    Time: 18.0 - 19.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.52 km (~0.18 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - East Coast Park Singapore
+    Time: 9.3 - 12.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.46 km (~0.28 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 9.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.72 km (~0.16 hours)
+
+  - Labrador Nature Reserve
+    Time: 12.5 - 14.5
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 9.07 km (~0.30 hours)
+
+  - HortPark
+    Time: 17.3 - 19.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.47 km (~0.05 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Marina Barrage
+    Time: 9.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.75 km (~0.16 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Armenian Church in Singapore
+    Time: 10.0 - 11.0
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 2.00 km (~0.07 hours)
+
+  - Marina Bay Sands
+    Time: 12.0 - 15.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.44 km (~0.05 hours)
+
+  - Gardens by the Bay
+    Time: 15.0 - 19.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 0.56 km (~0.02 hours)

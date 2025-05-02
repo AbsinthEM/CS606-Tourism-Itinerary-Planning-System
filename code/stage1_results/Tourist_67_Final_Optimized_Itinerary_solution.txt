@@ -1,0 +1,85 @@
+Objective (negative): -0.8058
+Objective (positive): 0.8058
+Tourist ID: 67
+Budget: SGD $473
+Money spent: SGD $150
+Preferences: ['Culinary']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 399.00
+Distance (raw): 58.54 km
+Number of attractions: 9
+
+Normalized Fun: 0.5470
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.2344
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.8058
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 9.48 km (~0.32 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.02 km (~0.03 hours)
+
+  - CHIJMES Singapore
+    Time: 13.0 - 17.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 0.28 km (~0.01 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Jamae Mosque (Masjid Chulia) Singapore
+    Time: 8.3 - 9.3
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 8.79 km (~0.29 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.20 km (~0.01 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.09 km (~0.00 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Marina Bay Sands
+    Time: 10.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Shopping', 'Culinary']
+    Travel: 1.13 km (~0.04 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 13.0 - 17.0
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.01 km (~0.03 hours)

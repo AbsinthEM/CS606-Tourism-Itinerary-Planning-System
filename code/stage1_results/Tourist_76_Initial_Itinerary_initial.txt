@@ -1,0 +1,70 @@
+Objective (negative): -0.5911
+Objective (positive): 0.5911
+Tourist ID: 76
+Budget: SGD $550
+Money spent: SGD $82
+Preferences: ['Cultural']
+Days: 4
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 450.00
+Distance (raw): 23.86 km
+Number of attractions: 6
+
+Normalized Fun: 0.4627
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.5000
+
+Weighted fun contribution: 0.1983
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1786
+
+Weighted Objective (positive): 0.5911
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.1 - 12.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.09 km (~0.10 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Gardens by the Bay
+    Time: 9.0 - 13.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.08 km (~0.04 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.09 km (~0.00 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Fort Canning Park
+    Time: 8.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.59 km (~0.05 hours)

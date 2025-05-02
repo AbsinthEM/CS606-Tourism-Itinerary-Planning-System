@@ -1,0 +1,44 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 51
+Preferences: ['Culinary']
+Days: 3
+Budget: SGD $445
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.8172
+Optimized Solution: 0.9159
+Improvement: 12.1%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3249          0.3413          +5.1%
+Distance             1.0000          1.0000          +0.0%
+Attractions          0.5556          0.7778          +40.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    5               7              
+Total Distance (km)  23.89           26.09          
+Raw Fun Score        237.00          249.00         
+Money Spent ($)      100             109            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Fuk Tak Chi Museum, HortPark
+  Day 3: 1 attractions - Raffles Singapore
+
+Optimized Solution:
+  Day 1: 3 attractions - Fuk Tak Chi Museum, Marina Bay Sands Sky Park Observation Deck, Marina Bay Sands
+  Day 2: 3 attractions - Chinatown Food Street, Dalhousie Obelisk, Labrador Nature Reserve
+  Day 3: 1 attractions - CHIJMES Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty

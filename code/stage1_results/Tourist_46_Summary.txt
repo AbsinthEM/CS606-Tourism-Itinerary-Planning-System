@@ -1,0 +1,43 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 46
+Preferences: ['Shopping', 'Sporty']
+Days: 2
+Budget: SGD $357
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.6754
+Optimized Solution: 1.2701
+Improvement: 88.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.7834          +154.0%
+Distance             0.8926          1.0000          +12.0%
+Attractions          0.3333          1.0000          +200.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    2               6              
+Total Distance (km)  45.99           36.54          
+Raw Fun Score        150.00          381.00         
+Money Spent ($)      8               50             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+
+Optimized Solution:
+  Day 1: 3 attractions - MUSEUM OF ICE CREAM SINGAPORE, MacRitchie Singapore & Singapore Nature Reserve, Marina Bay Sands
+  Day 2: 3 attractions - East Coast Park Singapore, MINT Museum of Toys Singapore & Toy Museum, Indian National Army (INA) Monument in Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Family, Nature, Outdoor, Sporty
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor, Shopping, Sporty
+New Categories Added: Culinary, Cultural, Shopping

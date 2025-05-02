@@ -1,0 +1,64 @@
+Objective (negative): -0.9570
+Objective (positive): 0.9570
+Tourist ID: 8
+Budget: SGD $348
+Money spent: SGD $112
+Preferences: ['Family']
+Days: 2
+Unassigned attractions: 51
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 450.00
+Distance (raw): 73.06 km
+Number of attractions: 6
+
+Normalized Fun: 0.9253
+Normalized Distance: 0.9489
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2033
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9570
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 9.6 - 11.6
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 16.62 km (~0.55 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 11.6 - 15.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.72 km (~0.06 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 17.1 - 18.1
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 0.91 km (~0.03 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Eurasian Heritage Centre
+    Time: 9.5 - 10.5
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 11.43 km (~0.38 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 6.90 km (~0.23 hours)
+
+  - East Coast Park Singapore
+    Time: 15.3 - 18.3
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.88 km (~0.26 hours)

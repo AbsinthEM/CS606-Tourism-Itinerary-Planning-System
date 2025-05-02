@@ -1,0 +1,49 @@
+Objective (negative): -0.4655
+Objective (positive): 0.4655
+Tourist ID: 39
+Budget: SGD $462
+Money spent: SGD $0
+Preferences: ['Family']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 225.00
+Distance (raw): 15.72 km
+Number of attractions: 3
+
+Normalized Fun: 0.3084
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4655
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Marina Barrage
+    Time: 12.0 - 15.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.34 km (~0.04 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Henderson Waves Bridge
+    Time: 12.2 - 13.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.41 km (~0.18 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Dalhousie Obelisk
+    Time: 12.0 - 12.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 1.11 km (~0.04 hours)

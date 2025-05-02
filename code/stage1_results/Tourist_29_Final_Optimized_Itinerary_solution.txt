@@ -1,0 +1,52 @@
+Objective (negative): -0.8754
+Objective (positive): 0.8754
+Tourist ID: 29
+Budget: SGD $365
+Money spent: SGD $0
+Preferences: ['Nature', 'Sporty']
+Days: 2
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 480.00
+Distance (raw): 30.58 km
+Number of attractions: 4
+
+Normalized Fun: 0.9870
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.4230
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.8754
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - HortPark
+    Time: 10.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.03 km (~0.23 hours)
+
+  - MacRitchie Singapore & Singapore Nature Reserve
+    Time: 13.1 - 16.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.76 km (~0.26 hours)
+
+  - Henderson Waves Bridge
+    Time: 17.9 - 18.9
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 7.71 km (~0.26 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Marina Barrage
+    Time: 10.0 - 13.0
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.34 km (~0.04 hours)

@@ -1,0 +1,85 @@
+Objective (negative): -0.7984
+Objective (positive): 0.7984
+Tourist ID: 43
+Budget: SGD $464
+Money spent: SGD $74
+Preferences: ['Cultural']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 468.00
+Distance (raw): 175.79 km
+Number of attractions: 9
+
+Normalized Fun: 0.6416
+Normalized Distance: 0.7760
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.2750
+Weighted distance contribution: 0.1663
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.7984
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Changi Museum Singapore
+    Time: 9.5 - 11.5
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.99 km (~0.07 hours)
+
+  - Jurong Bird Park
+    Time: 12.5 - 16.5
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 30.13 km (~1.00 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 17.1 - 18.1
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 17.37 km (~0.58 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - National Design Centre Singapore
+    Time: 9.6 - 10.6
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 16.58 km (~0.55 hours)
+
+  - Kranji War Memorial Landmark in Singapore
+    Time: 12.6 - 15.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 17.09 km (~0.57 hours)
+
+  - Sri Veeramakaliamman Temple
+    Time: 16.1 - 19.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 16.25 km (~0.54 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Chek Jawa
+    Time: 9.2 - 12.2
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 6.48 km (~0.22 hours)
+
+  - The Civilian War Memorial park in Singapore
+    Time: 12.8 - 14.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 17.62 km (~0.59 hours)
+
+  - Fuk Tak Chi Museum
+    Time: 17.8 - 18.3
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.28 km (~0.04 hours)

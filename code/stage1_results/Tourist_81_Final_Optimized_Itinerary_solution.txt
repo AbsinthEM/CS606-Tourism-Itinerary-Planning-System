@@ -1,0 +1,115 @@
+Objective (negative): -0.8432
+Objective (positive): 0.8432
+Tourist ID: 81
+Budget: SGD $640
+Money spent: SGD $150
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 44
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 906.00
+Distance (raw): 72.67 km
+Number of attractions: 13
+
+Normalized Fun: 0.7452
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.8667
+
+Weighted fun contribution: 0.3194
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3095
+
+Weighted Objective (positive): 0.8432
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 2.22 km (~0.07 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Maghain Aboth Synagogue
+    Time: 9.1 - 10.1
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 1.79 km (~0.06 hours)
+
+  - Indian National Army (INA) Monument in Singapore
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 0.97 km (~0.03 hours)
+
+  - Contemporary Arts Center
+    Time: 14.3 - 16.3
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 5.77 km (~0.19 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Chek Jawa
+    Time: 9.6 - 12.6
+    Cost: SGD $0
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 18.23 km (~0.61 hours)
+
+  - CHIJMES Singapore
+    Time: 13.2 - 17.2
+    Cost: SGD $50
+    Categories: ['Cultural', 'Culinary']
+    Travel: 17.69 km (~0.59 hours)
+
+  - Jamae Mosque (Masjid Chulia) Singapore
+    Time: 18.1 - 19.1
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 1.50 km (~0.05 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - Asian Civilisations Museum & Singapore Museum
+    Time: 12.0 - 15.0
+    Cost: SGD $25
+    Categories: ['Cultural', 'Family']
+    Travel: 1.01 km (~0.03 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 9.1 - 9.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - The Civilian War Memorial park in Singapore
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 0.71 km (~0.02 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 14.1 - 16.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.67 km (~0.06 hours)

@@ -1,0 +1,46 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 59
+Preferences: ['Family']
+Days: 4
+Budget: SGD $543
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.6979
+Optimized Solution: 0.6979
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.3084          +0.0%
+Distance             0.9488          0.9488          +0.0%
+Attractions          0.3333          0.3333          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    4               4              
+Total Distance (km)  64.77           64.77          
+Raw Fun Score        300.00          300.00         
+Money Spent ($)      57              57             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+  Day 3: 1 attractions - National Gallery Singapore
+  Day 4: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+
+Optimized Solution:
+  Day 1: 1 attractions - MacRitchie Singapore & Singapore Nature Reserve
+  Day 2: 1 attractions - Pulau Ubin & Singapore Islands
+  Day 3: 1 attractions - National Gallery Singapore
+  Day 4: 1 attractions - MUSEUM OF ICE CREAM SINGAPORE
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Cultural, Family, Nature, Outdoor, Shopping, Sporty
+Optimized Solution: Cultural, Family, Nature, Outdoor, Shopping, Sporty

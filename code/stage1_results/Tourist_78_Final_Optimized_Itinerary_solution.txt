@@ -1,0 +1,67 @@
+Objective (negative): -0.4369
+Objective (positive): 0.4369
+Tourist ID: 78
+Budget: SGD $672
+Money spent: SGD $38
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 375.00
+Distance (raw): 135.39 km
+Number of attractions: 5
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8662
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1856
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4369
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Gardens by the Bay
+    Time: 12.5 - 16.5
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 16.42 km (~0.55 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - National Design Centre Singapore
+    Time: 12.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Cultural']
+    Travel: 16.58 km (~0.55 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Changi Museum Singapore
+    Time: 12.1 - 14.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.99 km (~0.07 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - The Cenotaph
+    Time: 12.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 16.96 km (~0.57 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Malay Heritage Centre Singapore
+    Time: 12.5 - 15.5
+    Cost: SGD $6
+    Categories: ['Cultural', 'Family']
+    Travel: 15.75 km (~0.53 hours)

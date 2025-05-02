@@ -1,0 +1,82 @@
+Objective (negative): -0.6560
+Objective (positive): 0.6560
+Tourist ID: 9
+Budget: SGD $544
+Money spent: SGD $129
+Preferences: ['Family']
+Days: 4
+Unassigned attractions: 49
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 462.00
+Distance (raw): 74.91 km
+Number of attractions: 8
+
+Normalized Fun: 0.4750
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.6667
+
+Weighted fun contribution: 0.2036
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2381
+
+Weighted Objective (positive): 0.6560
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Reflections at Bukit Chandu
+    Time: 10.3 - 14.3
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 7.61 km (~0.25 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Cable Car Singapore & Mount Faber
+    Time: 10.2 - 12.2
+    Cost: SGD $30
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 5.17 km (~0.17 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Chinatown Heritage Centre
+    Time: 10.1 - 12.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.06 km (~0.07 hours)
+
+  - Jurong Bird Park
+    Time: 13.5 - 17.5
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 15.82 km (~0.53 hours)
+
+  - Marina Bay Sands Sky Park Observation Deck
+    Time: 18.1 - 19.1
+    Cost: SGD $39
+    Categories: ['Family']
+    Travel: 17.37 km (~0.58 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Old Supreme Court Singapore
+    Time: 10.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural']
+    Travel: 1.23 km (~0.04 hours)
+
+  - Contemporary Arts Center
+    Time: 14.2 - 16.2
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 5.46 km (~0.18 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 16.4 - 18.4
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 4.50 km (~0.15 hours)

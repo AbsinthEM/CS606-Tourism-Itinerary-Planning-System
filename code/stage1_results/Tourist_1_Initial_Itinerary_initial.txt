@@ -1,0 +1,91 @@
+Objective (negative): -0.6824
+Objective (positive): 0.6824
+Tourist ID: 1
+Budget: SGD $661
+Money spent: SGD $147
+Preferences: ['Shopping', 'Cultural']
+Days: 5
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 720.00
+Distance (raw): 33.14 km
+Number of attractions: 9
+
+Normalized Fun: 0.5922
+Normalized Distance: 1.0000
+Normalized #Attractions: 0.6000
+
+Weighted fun contribution: 0.2538
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.2143
+
+Weighted Objective (positive): 0.6824
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 2.68 km (~0.09 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.02 km (~0.03 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 13.1 - 15.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.89 km (~0.06 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.1 - 12.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.09 km (~0.10 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Gardens by the Bay
+    Time: 9.0 - 13.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.1 - 8.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 2.81 km (~0.09 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 0.57 km (~0.02 hours)
+
+  - MINT Museum of Toys Singapore & Toy Museum
+    Time: 12.1 - 14.1
+    Cost: SGD $15
+    Categories: ['Family', 'Shopping']
+    Travel: 1.90 km (~0.06 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Fort Canning Park
+    Time: 8.1 - 11.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.59 km (~0.05 hours)

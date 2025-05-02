@@ -1,0 +1,79 @@
+Objective (negative): -0.5976
+Objective (positive): 0.5976
+Tourist ID: 16
+Budget: SGD $645
+Money spent: SGD $90
+Preferences: ['Culinary', 'Family']
+Days: 5
+Unassigned attractions: 50
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 615.00
+Distance (raw): 70.42 km
+Number of attractions: 7
+
+Normalized Fun: 0.5058
+Normalized Distance: 0.9993
+Normalized #Attractions: 0.4667
+
+Weighted fun contribution: 0.2168
+Weighted distance contribution: 0.2141
+Weighted attractions contribution: 0.1667
+
+Weighted Objective (positive): 0.5976
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.1 - 12.1
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.09 km (~0.10 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 8.1 - 9.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 3.26 km (~0.11 hours)
+
+  - Fort Canning Park
+    Time: 12.0 - 15.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 1.42 km (~0.05 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 8.6 - 13.6
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 18.28 km (~0.61 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Marina Barrage
+    Time: 8.2 - 11.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 4.75 km (~0.16 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 1 attractions:
+  - Gardens by the Bay
+    Time: 9.0 - 13.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 3.97 km (~0.13 hours)

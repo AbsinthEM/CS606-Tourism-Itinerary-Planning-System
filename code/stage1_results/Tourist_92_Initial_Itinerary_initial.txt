@@ -1,0 +1,49 @@
+Objective (negative): -0.5082
+Objective (positive): 0.5082
+Tourist ID: 92
+Budget: SGD $447
+Money spent: SGD $38
+Preferences: ['Cultural', 'Sporty', 'Nature', 'Culinary']
+Days: 3
+Unassigned attractions: 54
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 360.00
+Distance (raw): 92.14 km
+Number of attractions: 3
+
+Normalized Fun: 0.4935
+Normalized Distance: 0.8289
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.2115
+Weighted distance contribution: 0.1776
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.5082
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Pulau Ubin & Singapore Islands
+    Time: 11.8 - 16.8
+    Cost: SGD $8
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 25.03 km (~0.83 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 11.3 - 15.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Marina Barrage
+    Time: 11.4 - 14.4
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 11.68 km (~0.39 hours)

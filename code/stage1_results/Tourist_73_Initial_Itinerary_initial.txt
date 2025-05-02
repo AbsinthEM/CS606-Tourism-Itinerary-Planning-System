@@ -1,0 +1,61 @@
+Objective (negative): -0.5099
+Objective (positive): 0.5099
+Tourist ID: 73
+Budget: SGD $449
+Money spent: SGD $159
+Preferences: ['Culinary']
+Days: 3
+Unassigned attractions: 52
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 237.00
+Distance (raw): 125.12 km
+Number of attractions: 5
+
+Normalized Fun: 0.3249
+Normalized Distance: 0.8038
+Normalized #Attractions: 0.5556
+
+Weighted fun contribution: 0.1392
+Weighted distance contribution: 0.1723
+Weighted attractions contribution: 0.1984
+
+Weighted Objective (positive): 0.5099
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.6 - 12.6
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 17.75 km (~0.59 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Lasalle College of the Arts
+    Time: 8.6 - 9.6
+    Cost: SGD $10
+    Categories: ['Cultural']
+    Travel: 16.61 km (~0.55 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 2.43 km (~0.08 hours)
+
+  - Singapore Zoo
+    Time: 12.5 - 17.5
+    Cost: SGD $49
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.64 km (~0.49 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 16.65 km (~0.56 hours)

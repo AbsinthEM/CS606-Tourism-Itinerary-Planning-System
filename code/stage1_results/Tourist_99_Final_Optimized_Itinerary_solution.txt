@@ -1,0 +1,85 @@
+Objective (negative): -0.9680
+Objective (positive): 0.9680
+Tourist ID: 99
+Budget: SGD $470
+Money spent: SGD $213
+Preferences: ['Culinary', 'Nature']
+Days: 3
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 675.00
+Distance (raw): 87.01 km
+Number of attractions: 9
+
+Normalized Fun: 0.9253
+Normalized Distance: 1.0000
+Normalized #Attractions: 1.0000
+
+Weighted fun contribution: 0.3966
+Weighted distance contribution: 0.2143
+Weighted attractions contribution: 0.3571
+
+Weighted Objective (positive): 0.9680
+
+Day 1 forecast: Normal Day
+Day 1 has 3 attractions:
+  - East Coast Park Singapore
+    Time: 8.2 - 11.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.72 km (~0.19 hours)
+
+  - Marina Barrage
+    Time: 13.1 - 16.1
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.03 km (~0.17 hours)
+
+  - Lau Pa Sat Singapore
+    Time: 16.2 - 20.2
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 2.35 km (~0.08 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 3 attractions:
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.23 km (~0.04 hours)
+
+  - Jurong Bird Park
+    Time: 13.6 - 17.6
+    Cost: SGD $35
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 16.61 km (~0.55 hours)
+
+  - Chinatown Food Street
+    Time: 18.1 - 19.1
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 15.80 km (~0.53 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Henderson Waves Bridge
+    Time: 8.2 - 9.2
+    Cost: SGD $0
+    Categories: ['Sporty', 'Nature', 'Family', 'Outdoor']
+    Travel: 5.41 km (~0.18 hours)
+
+  - River Safari Singapore
+    Time: 10.0 - 15.0
+    Cost: SGD $46
+    Categories: ['Nature', 'Family', 'Outdoor']
+    Travel: 14.52 km (~0.48 hours)
+
+  - Gardens by the Bay
+    Time: 15.5 - 19.5
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 15.88 km (~0.53 hours)

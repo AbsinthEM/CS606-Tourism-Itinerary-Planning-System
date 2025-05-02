@@ -1,0 +1,66 @@
+DISRUPTION HANDLING COMPARISON (Objective Values)
+============================================================
+Tourist ID: 44
+Preferences: ['Nature', 'Sporty']
+Days: 5
+Budget: SGD $646
+
+STAGE 1: PLANNING METHODS (No Disruptions)
+------------------------------------------------------------
+Initial Heuristic Objective: 0.6478
+ALNS Optimized Objective: 0.5459
+Improvement: -15.7%
+
+STAGE 2: Disruption Handling Comparison (Objectives)
+------------------------------------------------------------------------------------------
+
+Method: Initial
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           -9.5288     Day 1: Rainy, Day 2: Heat_wave, Day 3: Early_closure, Day 5: Family_day
+1           -4.4379     Day 1: Early_closure, Day 4: Heat_wave
+2           -4.4376     Day 2: Family_day, Day 3: Rainy, Day 4: Early_closure
+
+Method: Optimized
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           -9.5111     Day 1: Rainy, Day 2: Heat_wave, Day 3: Early_closure, Day 5: Family_day
+1           -4.4885     Day 1: Early_closure, Day 4: Heat_wave
+2           -4.4831     Day 2: Family_day, Day 3: Rainy, Day 4: Early_closure
+
+Method: Quick Repair
+Scenario    Objective      Disruptions
+------------------------------------------------------------------------------------------
+0           0.4851      Day 1: Rainy, Day 2: Heat_wave, Day 3: Early_closure, Day 5: Family_day
+1           -4.5225     Day 1: Early_closure, Day 4: Heat_wave
+2           0.5274      Day 2: Family_day, Day 3: Rainy, Day 4: Early_closure
+
+Method: ALNS Replanning
+Scenario    Objective      Stability    Proximity    Disruptions
+------------------------------------------------------------------------------------------
+0           0.6440      0.6000      0.8941      Day 1: Rainy, Day 2: Heat_wave, Day 3: Early_closure, Day 5: Family_day
+1           -1.2690     0.8000      1.0000      Day 1: Early_closure, Day 4: Heat_wave
+2           0.6774      0.8000      0.6808      Day 2: Family_day, Day 3: Rainy, Day 4: Early_closure
+
+============================================================
+OVERALL AVERAGE OBJECTIVE VALUES
+============================================================
+Method             Avg Objective   Avg Attractions
+----------------------------------------------------------------------
+Initial            -6.1348         3.7            
+Optimized          -6.1609         3.7            
+Quick Repair       -1.1700         4.7            
+ALNS Replanning    0.0175          4.7            
+
+REPLANNING METHOD COMPARISON:
+- ALNS Replanning achieves better objective values: Complete reversal from -1.1700 to 0.0175 (positive gain of 1.1875)
+- ALNS Replanning has 183.3% less disruption impact
+- Both methods include a similar number of attractions
+
+Replanned Routes Information
+------------------------------------------------------------
+Detailed replanned routes have been saved to the 'disruption_routes' directory:
+Files:
+  - Tourist_44_Scenario_X_replanned.json (ALNS Replanning)
+  - Tourist_44_Scenario_X_quickrepair.json (Quick Repair)
+  where X is the scenario number

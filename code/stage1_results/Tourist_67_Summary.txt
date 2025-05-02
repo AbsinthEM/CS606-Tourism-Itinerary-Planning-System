@@ -1,0 +1,44 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 67
+Preferences: ['Culinary']
+Days: 3
+Budget: SGD $473
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.8102
+Optimized Solution: 1.1282
+Improvement: 39.2%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3249          0.5470          +68.4%
+Distance             0.9827          1.0000          +1.8%
+Attractions          0.5556          1.0000          +80.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    5               9              
+Total Distance (km)  56.27           73.97          
+Raw Fun Score        237.00          399.00         
+Money Spent ($)      100             158            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 3 attractions - Chinatown Food Street, Fuk Tak Chi Museum, Jamae Mosque (Masjid Chulia) Singapore
+  Day 3: 1 attractions - Raffles Singapore
+
+Optimized Solution:
+  Day 1: 3 attractions - CHIJMES Singapore, Marina Bay Sands, Eurasian Heritage Centre
+  Day 2: 3 attractions - Lau Pa Sat Singapore, Dalhousie Obelisk, Chinatown Food Street
+  Day 3: 3 attractions - Raffles Singapore, Fuk Tak Chi Museum, Buddha Tooth Relic Temple & Museum in Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Outdoor, Shopping
+Optimized Solution: Culinary, Cultural, Family, Outdoor, Shopping

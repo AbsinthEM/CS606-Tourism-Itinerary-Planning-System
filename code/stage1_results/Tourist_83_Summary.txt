@@ -1,0 +1,42 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 83
+Preferences: ['Cultural']
+Days: 2
+Budget: SGD $373
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.6427
+Optimized Solution: 0.6427
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.3084          +0.0%
+Distance             0.8107          0.8107          +0.0%
+Attractions          0.3333          0.3333          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    2               2              
+Total Distance (km)  68.33           68.33          
+Raw Fun Score        150.00          150.00         
+Money Spent ($)      62              62             
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Gardens by the Bay
+  Day 2: 1 attractions - Lau Pa Sat Singapore
+
+Optimized Solution:
+  Day 1: 1 attractions - Gardens by the Bay
+  Day 2: 1 attractions - Lau Pa Sat Singapore
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Nature, Outdoor
+Optimized Solution: Culinary, Cultural, Family, Nature, Outdoor

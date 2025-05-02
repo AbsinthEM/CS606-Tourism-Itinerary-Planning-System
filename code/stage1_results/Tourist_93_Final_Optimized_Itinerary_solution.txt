@@ -1,0 +1,58 @@
+Objective (negative): -0.4428
+Objective (positive): 0.4428
+Tourist ID: 93
+Budget: SGD $561
+Money spent: SGD $13
+Preferences: ['Cultural']
+Days: 4
+Unassigned attractions: 53
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 300.00
+Distance (raw): 94.10 km
+Number of attractions: 4
+
+Normalized Fun: 0.3084
+Normalized Distance: 0.8941
+Normalized #Attractions: 0.3333
+
+Weighted fun contribution: 0.1322
+Weighted distance contribution: 0.1916
+Weighted attractions contribution: 0.1190
+
+Weighted Objective (positive): 0.4428
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Changi Museum Singapore
+    Time: 11.1 - 13.1
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 1.99 km (~0.07 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Eurasian Heritage Centre
+    Time: 11.4 - 12.4
+    Cost: SGD $8
+    Categories: ['Cultural', 'Family']
+    Travel: 11.43 km (~0.38 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 1 attractions:
+  - Maghain Aboth Synagogue
+    Time: 11.6 - 12.6
+    Cost: SGD $5
+    Categories: ['Cultural']
+    Travel: 16.90 km (~0.56 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - The Civilian War Memorial park in Singapore
+    Time: 11.6 - 13.6
+    Cost: SGD $0
+    Categories: ['Cultural', 'Outdoor']
+    Travel: 16.73 km (~0.56 hours)

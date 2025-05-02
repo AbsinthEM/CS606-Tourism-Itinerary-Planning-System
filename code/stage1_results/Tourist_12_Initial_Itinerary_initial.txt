@@ -1,0 +1,91 @@
+Objective (negative): -0.6635
+Objective (positive): 0.6635
+Tourist ID: 12
+Budget: SGD $648
+Money spent: SGD $132
+Preferences: ['Cultural']
+Days: 5
+Unassigned attractions: 48
+
+--- Objective Component Breakdown ---
+Fun Score (raw): 675.00
+Distance (raw): 98.59 km
+Number of attractions: 9
+
+Normalized Fun: 0.5552
+Normalized Distance: 0.9858
+Normalized #Attractions: 0.6000
+
+Weighted fun contribution: 0.2379
+Weighted distance contribution: 0.2112
+Weighted attractions contribution: 0.2143
+
+Weighted Objective (positive): 0.6635
+
+Day 1 forecast: Normal Day
+Day 1 has 1 attractions:
+  - Lau Pa Sat Singapore
+    Time: 8.3 - 12.3
+    Cost: SGD $30
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 9.36 km (~0.31 hours)
+
+
+Day 2 forecast: Normal Day
+Day 2 has 1 attractions:
+  - Gardens by the Bay
+    Time: 9.0 - 13.0
+    Cost: SGD $32
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 10.79 km (~0.36 hours)
+
+
+Day 3 forecast: Normal Day
+Day 3 has 3 attractions:
+  - Dalhousie Obelisk
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family', 'Outdoor']
+    Travel: 9.48 km (~0.32 hours)
+
+  - Chinatown Food Street
+    Time: 11.0 - 12.0
+    Cost: SGD $20
+    Categories: ['Cultural', 'Family', 'Culinary', 'Outdoor']
+    Travel: 1.08 km (~0.04 hours)
+
+  - Buddha Tooth Relic Temple & Museum in Singapore
+    Time: 12.0 - 14.0
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 0.09 km (~0.00 hours)
+
+
+Day 4 forecast: Normal Day
+Day 4 has 1 attractions:
+  - Fort Canning Park
+    Time: 8.3 - 11.3
+    Cost: SGD $0
+    Categories: ['Cultural', 'Nature', 'Family', 'Outdoor']
+    Travel: 8.78 km (~0.29 hours)
+
+
+Day 5 forecast: Normal Day
+Day 5 has 3 attractions:
+  - Fuk Tak Chi Museum
+    Time: 8.3 - 8.8
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 9.15 km (~0.31 hours)
+
+  - Raffles Singapore
+    Time: 10.0 - 13.0
+    Cost: SGD $50
+    Categories: ['Cultural', 'Shopping', 'Culinary']
+    Travel: 1.56 km (~0.05 hours)
+
+  - Contemporary Arts Center
+    Time: 13.2 - 15.2
+    Cost: SGD $0
+    Categories: ['Cultural', 'Family']
+    Travel: 5.98 km (~0.20 hours)

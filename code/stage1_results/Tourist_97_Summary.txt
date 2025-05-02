@@ -1,0 +1,48 @@
+TOURIST ITINERARY PLANNING SUMMARY
+======================================================================
+Tourist ID: 97
+Preferences: ['Culinary']
+Days: 5
+Budget: SGD $661
+
+OBJECTIVE VALUES
+----------------------------------------------------------------------
+Initial Solution: 0.6891
+Optimized Solution: 0.6891
+Improvement: 0.0%
+
+NORMALIZED COMPONENT VALUES
+----------------------------------------------------------------------
+Component            Initial         Optimized       Change (%)
+Fun Score            0.3084          0.3084          +0.0%
+Distance             0.9267          0.9267          +0.0%
+Attractions          0.3333          0.3333          +0.0%
+
+RAW METRICS
+----------------------------------------------------------------------
+Metric               Initial         Optimized      
+Attractions Count    5               5              
+Total Distance (km)  94.35           94.35          
+Raw Fun Score        375.00          375.00         
+Money Spent ($)      150             150            
+
+ITINERARY SUMMARY
+----------------------------------------------------------------------
+Initial Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 1 attractions - Chinatown Food Street
+  Day 3: 1 attractions - Raffles Singapore
+  Day 4: 1 attractions - CHIJMES Singapore
+  Day 5: 1 attractions - Marina Bay Sands
+
+Optimized Solution:
+  Day 1: 1 attractions - Lau Pa Sat Singapore
+  Day 2: 1 attractions - Chinatown Food Street
+  Day 3: 1 attractions - Raffles Singapore
+  Day 4: 1 attractions - CHIJMES Singapore
+  Day 5: 1 attractions - Marina Bay Sands
+
+CATEGORIES INCLUDED
+----------------------------------------------------------------------
+Initial Solution: Culinary, Cultural, Family, Outdoor, Shopping
+Optimized Solution: Culinary, Cultural, Family, Outdoor, Shopping
